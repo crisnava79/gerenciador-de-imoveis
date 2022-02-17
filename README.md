@@ -1,4 +1,4 @@
-# gerenciador-de-imoveis
+# Gerenciador-de-Imoveis
 Projeto realizado pelos alunos do Curso de ADS PUC-MG (Turma 5.5)
 ## 1. Introdução
 ## 2. Objetivos
