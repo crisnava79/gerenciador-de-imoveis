@@ -3,12 +3,12 @@
 Projeto realizado pelos alunos do Curso de ADS PUC-MG (Turma 5.5)
 
 Integrantes:
-Cristiane Fumagalli Navarro Martins
-Eduardo Lordeiro Alves
-Fabiana Bicalho Palhano Rocha Cossenzo
-Guilherme da Silva Moreira
-Márcia Maria de Paula Ferreira
-Nayara Katlin Oliveira da Silva
+- Cristiane Fumagalli Navarro Martins
+- Eduardo Lordeiro Alves
+- Fabiana Bicalho Palhano Rocha Cossenzo
+- Guilherme da Silva Moreira
+- Márcia Maria de Paula Ferreira
+- Nayara Katlin Oliveira da Silva
 
 ## Introdução
 
