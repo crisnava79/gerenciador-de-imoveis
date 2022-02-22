@@ -43,6 +43,11 @@ Como objetivos específicos, podemos citar:
 A tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoas consomem, negociam e até tomam decisões. Isso inclui também, a forma como as pessoas procuram, negociam e alugam imóveis para temporada. O uso da tecnologia nesse tipo de negócio, traz benefícios tanto para o locador como para o locatário. Do lado do locador, este pode ampliar a abrangência na divulgação do seu imóvel, podendo encontrar locatários com  maior agilidade, facilidade, menor burocracia e consequentemente, menor gasto. Do lado do cliente locatário, este pode obter opções de uma grande quantidade de imóveis de forma fácil e rápida. Pode, dependendo da tecnologia, ter uma boa ideia do imóvel que pretende locar, sem ter que se deslocar até o local antes da sua estadia. Pode reservar seu imóvel sem muita burocracia e com economia de tempo, já que tem possibilidade de fazer alterações na sua estadia, consultar os detalhes do imóvel, tirar dúvidas e pagar sua estadia diretamente por uma aplicação online. Diante disso, uma aplicação online que faça a ligação entre locador e locatário torna-se de grande utilidade numa era onde características como agilidade e facilidade são tão valorizadas.
 
 ## 3. Público-alvo
+  As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
+ 
+  Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classe.
+
+
 
 ## 4. Personas
 
