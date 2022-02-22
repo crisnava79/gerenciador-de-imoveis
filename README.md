@@ -43,9 +43,10 @@ Como objetivos específicos, podemos citar:
 A tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoas consomem, negociam e até tomam decisões. Isso inclui também, a forma como as pessoas procuram, negociam e alugam imóveis para temporada. O uso da tecnologia nesse tipo de negócio, traz benefícios tanto para o locador como para o locatário. Do lado do locador, este pode ampliar a abrangência na divulgação do seu imóvel, podendo encontrar locatários com  maior agilidade, facilidade, menor burocracia e consequentemente, menor gasto. Do lado do cliente locatário, este pode obter opções de uma grande quantidade de imóveis de forma fácil e rápida. Pode, dependendo da tecnologia, ter uma boa ideia do imóvel que pretende locar, sem ter que se deslocar até o local antes da sua estadia. Pode reservar seu imóvel sem muita burocracia e com economia de tempo, já que tem possibilidade de fazer alterações na sua estadia, consultar os detalhes do imóvel, tirar dúvidas e pagar sua estadia diretamente por uma aplicação online. Diante disso, uma aplicação online que faça a ligação entre locador e locatário torna-se de grande utilidade numa era onde características como agilidade e facilidade são tão valorizadas.
 
 ## 3. Público-alvo
-  As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
+
+As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
  
-  Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
+Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
 
 
 
@@ -54,3 +55,9 @@ A tecnologia e a popularização da internet tem mudado constantemente a forma c
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
 
 ## Referências Bibliográficas
+
+BIGViagem. **Aluguel por temporada – Vantagens e Desvantagens**. Agosto de 2016. Disponível em: https://bigviagem.com/aluguel-por-temporada-vantagens-e-desvantagens/. Acessado em 19/02/2022.
+
+TemporadaLivre. **5 vantagens para quem quer alugar um imóvel de temporada**. Maio de 2019. Disponível em: https://www.temporadalivre.com/blog/5-vantagens-para-quem-quer-alugar-um-imovel-de-temporada. Acessado em 20/02/2022.
+
+VILLAR, Marcela. **Preço do aluguel de casas por temporada no Litoral Norte aumenta até 70% neste verão**. Janeiro de 2021. Disponível em: https://www.correio24horas.com.br/noticia/nid/preco-do-aluguel-de-casas-por-temporada-no-litoral-norte-aumenta-ate-70-neste-verao/. Acessado em 19/02/2022.
