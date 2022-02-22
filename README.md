@@ -12,15 +12,15 @@ Integrantes:
 
 ## Introdução
 
-A cada dia mais as pessoas preferem estar programando suas viagens de férias antecipadamente e com a maior comodidade, conforto e segurança possível.
+A cada dia as pessoas tem preferido programar suas viagens de férias antecipadamente e com a maior comodidade, conforto e segurança possíveis.
 
-Além das opções de hotéis e pousadas que oferecem total comodidade, sempre houve a possibilidade de se alugar uma casa para temporada, porém muitas vezes você só iria ver o imóvel alugado quando chegasse no local. Há algum tempo a tecnologia e a internet nos permite realizar está ação de uma forma muito mais clara e segura, pois você pode ver as fotos e tirar todas as dúvidas, antes de fechar a locação.
+Além das opções de hotéis e pousadas que oferecem total comodidade, sempre houve a possibilidade de se alugar uma casa para temporada, porém muitas vezes só se teria como ver o imóvel alugado quando chegasse no local. Há algum tempo a tecnologia e a internet nos permite realizar esta ação de uma forma muito mais clara e segura, admitindo a visualização de fotos e solução de dúvidas, antes mesmo de fechar a locação.
 
-Sendo assim, o serviço de aluguel por temporada tem sido a cada dia mais procurado, e não só por lazer, mas também a trabalho, pois, após o início da pandemia da covid 19, muitas empresas adotaram o home-office. Neste mesmo contexto da pandemia, muitas pessoas também preferem o aluguel de temporada, pois o fluxo dentro da hospedagem fica restrito.
+Sendo assim, o serviço de locação por temporada tem sofrido um aumento no número de procuras, e não somente como opção de lazer, mas também para trabalho, pois, após o início da pandemia de SARS Covid-19, muitas empresas adotaram o home-office. Neste mesmo contexto da pandemia, muitas pessoas também preferem a locação de temporada, pois o fluxo dentro da hospedagem fica restrito. (VILLAR, 2021) 
 
-Para o locatário, o aluguel de temporada sempre foi uma oportunidade de ter uma renda extra, mas quem procura este tipo de hospedagem também possui algumas vantagens como, redução de custos, maior liberdade e privacidade, pois não será necessário correr para não perder o horário do café da manhã, além de poder reunir com amigos ou familiares num só local.
+Para o anfitrião (locador), o serviço de locação por temporada sempre foi uma oportunidade de ter uma renda extra, e para quem procura esse tipo de hospedagem também podemos citar algumas vantagens como: redução de custos, maior liberdade e privacidade, pois não será necessário correr para não perder o horário do café da manhã, além de poder reunir com amigos e/ou familiares no mesmo local. (BIGViagem, 2016 e TemporadaLivre, 2019)
 
-Diante deste contexto, surge a necessidade de uma plataforma focada no aluguel por temporada de imóveis nas regiões litorâneas, oferecendo conforto, qualidade e segurança para aqueles que desejam disponibilizar ou locar um imóvel.
+Diante desse contexto, surge a necessidade de uma plataforma focada no serviço online de locação por temporada de imóveis nas regiões litorâneas, oferecendo não somente conforto, qualidade e segurança para aqueles que desejam disponibilizar ou locar um imóvel, mas também uma interação 100% digital, segura e automatizada.
 
 
 ## 1. Objetivos
