@@ -73,6 +73,4 @@ TemporadaLivre. **5 vantagens para quem quer alugar um imóvel de temporada**. M
 
 VILLAR, Marcela. **Preço do aluguel de casas por temporada no Litoral Norte aumenta até 70% neste verão**. Janeiro de 2021. Disponível em: https://www.correio24horas.com.br/noticia/nid/preco-do-aluguel-de-casas-por-temporada-no-litoral-norte-aumenta-ate-70-neste-verao/. Acessado em 19/02/2022.
 
-=======
-
-CASTRO, Luíza M. S.; LESO, Bernardo Henrique; CORTIMIGLIA, Marcelo N. "Transformação digital no mercado de locação de imóveis". Ciudad del Saber: X Congreso Internacional de Conocimiento y Innovación, 2020. Disponível em: https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/934/496/2923. Acesso em: 22 fev. 2022.
+CASTRO, Luíza M. S.; LESO, Bernardo Henrique; CORTIMIGLIA, Marcelo N. **Transformação digital no mercado de locação de imóveis**. Ciudad del Saber: X Congreso Internacional de Conocimiento y Innovación, 2020. Disponível em: https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/934/496/2923. Acesso em: 22 fev. 2022.
