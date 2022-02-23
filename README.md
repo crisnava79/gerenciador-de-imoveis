@@ -51,6 +51,56 @@ Como objetivos específicos, podemos citar:
   Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
 
 ## 4. Personas
+ 
+ 
+ As pessoas levantadas são feitas para entender o problema nas figuras que seguem
+![image](https://user-images.githubusercontent.com/90849504/155326086-f70f0bd6-0390-452c-853d-83029bc625d5.png)
+
+Carlos José
+Idade: 35 anos
+Ocupação: corretor de imóveis, especialista em aluguel para temporada.
+
+
+
+Motivações:
+Oferecer imóveis que possa promover lazer e conforto em aluguéis para temporada.
+
+Frustações:
+Oferecer imóveis quase perfeito para seu clientes.
+
+
+Aplicativos:
+Linkedin
+Instagran
+
+![image](https://user-images.githubusercontent.com/90849504/155326139-82ca83a6-3f35-4dc1-8933-e353e3b1f68e.png)
+
+ 
+Caio 
+Idade: 30 anos
+Ocupação: Analista de Sistemas
+
+
+
+
+Motivações:
+Caio reside em Belo Horizonte, é funcionário de uma empresa de TI dos Estados Unidos, exerce sua função em home office período integral, e adora conhecer novos lugares, e sempre mudar seu local de trabalho, se sente criativo.
+
+Frustações:
+Escolher lugares diferentes e criativos para desenvolver sua função,  acha um tédio ficar somente em sua casa.
+
+
+Aplicativos:
+Linkedin
+Instagran
+
+
+
+
+
+
+
+
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
 
