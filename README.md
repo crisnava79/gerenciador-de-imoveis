@@ -54,7 +54,8 @@ Como objetivos específicos, podemos citar:
  
  
  As pessoas levantadas são feitas para entender o problema nas figuras que seguem
-![image](https://user-images.githubusercontent.com/90849504/155326086-f70f0bd6-0390-452c-853d-83029bc625d5.png)
+![image](https://user-images.githubusercontent.com/90849504/155332734-933e956a-909b-4d7f-af7c-538b2a0f4357.png)
+
 
 
 
@@ -75,7 +76,7 @@ Aplicativos:
 Linkedin
 Instagran
 
-![image](https://user-images.githubusercontent.com/90849504/155326139-82ca83a6-3f35-4dc1-8933-e353e3b1f68e.png)
+![image](https://user-images.githubusercontent.com/90849504/155332783-71cbcd9f-b0b1-46e5-a589-01341dc2394a.png)
 
  
 Caio 
@@ -104,7 +105,7 @@ Instagran
 
 
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas nas figuras que se seguem.
+
 
 ## Referências Bibliográficas
 
