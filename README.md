@@ -56,6 +56,8 @@ Como objetivos específicos, podemos citar:
  As pessoas levantadas são feitas para entender o problema nas figuras que seguem
 ![image](https://user-images.githubusercontent.com/90849504/155326086-f70f0bd6-0390-452c-853d-83029bc625d5.png)
 
+
+
 Carlos José
 Idade: 35 anos
 Ocupação: corretor de imóveis, especialista em aluguel para temporada.
