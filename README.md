@@ -54,6 +54,9 @@ Como objetivos específicos, podemos citar:
  
  
  As pessoas levantadas são feitas para entender o problema nas figuras que seguem
+ 
+ 
+ 
 ![image](https://user-images.githubusercontent.com/90849504/155332734-933e956a-909b-4d7f-af7c-538b2a0f4357.png)
 
 
@@ -75,6 +78,8 @@ Oferecer imóveis quase perfeito para seu clientes.
 Aplicativos:
 Linkedin
 Instagran
+
+
 
 ![image](https://user-images.githubusercontent.com/90849504/155332783-71cbcd9f-b0b1-46e5-a589-01341dc2394a.png)
 
