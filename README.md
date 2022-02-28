@@ -12,7 +12,7 @@ Integrantes:
 - Nayara Katlin Oliveira da Silva
 
 
-## Introdução
+## 1. Introdução
 
 A cada dia as pessoas tem preferido programar suas viagens de férias antecipadamente e com a maior comodidade, conforto e segurança possíveis.
 
@@ -24,8 +24,11 @@ Para o anfitrião (locador), o serviço de locação por temporada sempre foi um
 
 Diante desse contexto, surge a necessidade de uma plataforma focada no serviço online de locação por temporada de imóveis nas regiões litorâneas, oferecendo não somente conforto, qualidade e segurança para aqueles que desejam disponibilizar ou locar um imóvel, mas também uma interação 100% digital, segura e automatizada.
 
+## 1.1 Problema
 
-## 1. Objetivos
+Congênere o exposto, 
+
+## 1.2 Objetivos
 
 Nosso projeto tem como objetivo central a criação de um software que proporcione uma maior aproximação e interação entre o anfitrião (locador) e o hóspede (locatário), no acesso à imóveis mobiliados disponíveis para locação de curta e média permanência, no litoral brasileiro, de forma 100% digital, segura e automatizada. 
 
@@ -40,7 +43,7 @@ Como objetivos específicos, podemos citar:
 - Apresentar os perfis de acesso, separados por categorias (anfitrião e hóspede), para melhor trato com os diferentes usuários.
 
 
-## 2. Justificativa
+## 1.3 Justificativa
 
 O que impulsionou a elaboração deste projeto foi entender que, em um mundo onde a tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoam consomem, negociam e até tomam decisões, disponibilizar uma ferramenta online para locação de imóveis de curta e média permanência, que seja ágil, segura e de fácil acesso, vai de encontro com as necessidades atuais e pode trazer muitos benefícios tanto para o anfitrião (locador), quanto para o hóspede (locatário) (GO BlogCredpago, 2021).
 
@@ -51,17 +54,19 @@ Além disso, segundo estudo realizado pela Brain Inteligência Estratégica (202
 Diante disso, uma aplicação online que faça a ligação entre anfitrião (locador) e hóspede (locatário) torna-se de grande utilidade numa era onde características como agilidade, facilidade e segurança são tão valorizadas.
 
 
-## 3. Público-alvo
+## 1.4 Público-alvo
 
   As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
  
   Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
 
 
-## 4. Personas
+## 2. Especificação do Projeto
+
+## 2.1 Personas
  
  
- As pessoas levantadas são feitas para entender o problema nas figuras que seguem
+ As pessoas levantadas são apresentadas para entender o problema nas figuras que seguem.
  
  
  
@@ -116,7 +121,88 @@ Instagran
 
 
 
+## 2.2 Histórias dos Usuários
 
+Registramos as histórias de usuários no quadro abaixo, diante da informação coletada do dia a dia das personas identificadas para o projeto.
+
+Quadro xx - História de Usuários
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+|nome         |escrever funcionalidade                     |escrever motivo                       |
+
+Fonte: Elaborado pelos autores
+
+
+## 2.3 Requisitos e Restrições do Projeto
+
+O propósito funcional do projeto é definido por meio dos requisitos funcionais que descrevem ações que o sistema deve estar apto a executar, assim como os requisitos não funcionais que descrevem os atributos que o sistema deve possuir de maneira geral. Estes requisitos são relacionados nas tabelas a seguir.
+
+## 2.3.1 Requisitos Funcionais
+
+Quadro xx - Requisitos Funcionais
+
+|ID       | Descrição do Requisito  | Prioridade |
+|---------|-------------------------|------------|
+|RF-001   | descrição | prioridade | 
+|RF-002   | descrição | prioridade|
+|RF-003   | descrição | prioridade |
+|RF-004   | descrição | prioridade |
+|RF-005   | descrição | prioridade |
+|RF-006   | descrição | prioridade |
+|RF-007   | descrição | prioridade |
+|RF-008   | descrição | prioridade |
+|RF-009   | descrição | prioridade |      
+|RF-010   | descrição | prioridade |
+
+Fonte: Elaborado pelos autores
+
+
+## 2.3.2 Requisitos Não Funcionais
+
+Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
+
+Quadro xx - Requisitos Não Funcionais
+
+|ID      | Descrição do Requisito  |Prioridade |
+|--------|-------------------------|-----------|
+|RNF-001 | descrição | prioridade  | 
+|RNF-002 | descrição | prioridade  | 
+|RNF-003 | descrição | prioridade  | 
+|RNF-004 | descrição | prioridade  | 
+|RNF-005 | descrição | prioridade  | 
+|RNF-006 | descrição | prioridade  | 
+|RNF-007 | descrição | prioridade  | 
+|RNF-008 | descrição | prioridade  |
+|RNF-009 | descrição | prioridade  |
+|RNF-010 | descrição | prioridade  |
+
+Fonte: Elaborado pelos autores
+
+
+## 2.3.3 Restrições
+
+Apresentamos na tabela abaixo, tópicos consideráveis que limitam a execução do projeto e que se configuram como encargos necessários para seu desenvolvimento.
+
+Quadro xx - Restrições
+
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
+|RE-01| descrição |
+|RE-02| descrição |
+|RE-03| descrição |
+|RE-04| descrição |
+|RE-05| descrição |
+
+Fonte: Elaborado pelos autores
+
+
+## 2.4 Diagramas de Casos de Uso
 
 
 
