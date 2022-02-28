@@ -140,11 +140,11 @@ Quadro 04 - Requisitos Não Funcionais
 
 |ID      | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|-----------|
-|RNF-001 | descrição | prioridade  | 
-|RNF-002 | descrição | prioridade  | 
-|RNF-003 | descrição | prioridade  | 
-|RNF-004 | descrição | prioridade  | 
-|RNF-005 | descrição | prioridade  | 
+|RNF-001 | O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS. | prioridade  | 
+|RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | prioridade  | 
+|RNF-003 | Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | prioridade  | 
+|RNF-004 | Permitir a visualização adequada em um Smartphone. | prioridade  | 
+|RNF-005 | O desenvolvimento deve ser utilizando nas linguagens de Front-End e Back-End (C# ???). | prioridade  | 
 |RNF-006 | descrição | prioridade  | 
 |RNF-007 | descrição | prioridade  | 
 |RNF-008 | descrição | prioridade  |
@@ -162,8 +162,8 @@ Quadro 05 - Restrições
 
 |ID   | Restrição                                             |
 |-----|-------------------------------------------------------|
-|RE-01| descrição |
-|RE-02| descrição |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
+|RE-02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 |RE-03| descrição |
 |RE-04| descrição |
 |RE-05| descrição |
@@ -173,7 +173,45 @@ Fonte: Elaborado pelos autores
 
 ## 2.4 Diagramas de Casos de Uso
 
+**O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que  não se utiliza diagramas de caso de uso para requisitos não-funcionais. Como atores é importante a identificação dos grupos de todos os envolvidos que interagem com o sistema, principalmente outros sistemas ou sensores. Eles são representados graficamente por bonecos-palito e serão nomeados pelos papéis nas interações nas quais estão envolvidos (ex. Cliente, Administrador). Lembre-se de que o próprio sistema não pode ser ator do diagrama que o modela. Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensões entre casos de uso.**
 
+2.4.1
+
+|ATOR| DESCRIÇÃO                                            |
+|--|-------------------------------------------------------|
+|Usuário| Pessoa interessada em descartar materiais da maneira correta. |
+|BD| Banco de dados que deve armazenar e buscar as informações dos usuários e das solicitações de descarte e coleta.|
+|Ecoponto| Local disponibilizado  para descarte dos materiais recicláveis e eletrônico.|
+
+|CASO DE USO| DESCRIÇÃO | RF |
+|--|-------------------------------------------------------|----------------------|
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 | 
+|escrever caso | escrever descrição | RF-00 |
+|escrever caso | escrever descrição | RF-00 |
+
+|RELACIONAMENTO| DESCRIÇÃO                                            |
+|--|-------------------------------------------------------|
+|INCLUSÃO| escrever descrição |
+|| escrever descrição |
+|| escrever descrição | 
+|EXTENSÃO| escrever descrição |
+|| escrever descrição |
+|| escrever descrição |
+
+### 2.4.2 Representação Visual
+
+Figura 1 – Diagrama de Casos de Uso
+
+![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel/blob/main/docs/img/DiagramaDeCasosDeUso.png)
+ 
 
 ## Referências Bibliográficas
 
