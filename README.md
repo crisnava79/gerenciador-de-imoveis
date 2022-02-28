@@ -70,6 +70,8 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 ## 2.1 Personas
   
 As pessoas levantadas são apresentadas para entender o problema nas figuras que seguem.
+
+Quadro 01 - Personas
  
 | Carlos José      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
@@ -88,7 +90,7 @@ Fonte: Elaborado pelos autores
 
 Registramos as histórias de usuários no quadro abaixo, diante da informação coletada do dia a dia das personas identificadas para o projeto.
 
-Quadro xx - História de Usuários
+Quadro 02 - História de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -109,7 +111,7 @@ O propósito funcional do projeto é definido por meio dos requisitos funcionais
 
 ## 2.3.1 Requisitos Funcionais
 
-Quadro xx - Requisitos Funcionais
+Quadro 03 - Requisitos Funcionais
 
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-------------------------|------------|
@@ -131,7 +133,7 @@ Fonte: Elaborado pelos autores
 
 Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
 
-Quadro xx - Requisitos Não Funcionais
+Quadro 04 - Requisitos Não Funcionais
 
 |ID      | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|-----------|
@@ -153,7 +155,7 @@ Fonte: Elaborado pelos autores
 
 Apresentamos na tabela abaixo, tópicos consideráveis que limitam a execução do projeto e que se configuram como encargos necessários para seu desenvolvimento.
 
-Quadro xx - Restrições
+Quadro 05 - Restrições
 
 |ID   | Restrição                                             |
 |-----|-------------------------------------------------------|
