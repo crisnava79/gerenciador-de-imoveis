@@ -67,9 +67,12 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 
 ## 2. Especificação do Projeto
 
+A definição exata do problema e os pontos mais relevantes a serem tratados no projeto foi estabelecido com a participação dos usuários por meio de entrevista online com tópicos previamente estipulados. A partir dessa interação consolidamos os dados coletados na forma de personas e histórias de usuários.
+
+
 ## 2.1 Personas
   
-As pessoas levantadas são apresentadas para entender o problema nas figuras que seguem.
+As pessoas retratadas durante o processo de compreensão do problema são apresentadas nas figuras que seguem.
 
 Quadro 01 - Personas
  
