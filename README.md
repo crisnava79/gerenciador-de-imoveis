@@ -25,14 +25,14 @@ Para o anfitrião (locador), o serviço de locação por temporada sempre foi um
 Diante desse contexto, surge a necessidade de uma plataforma focada no serviço online de locação por temporada de imóveis nas regiões litorâneas, oferecendo não somente conforto, qualidade e segurança para aqueles que desejam disponibilizar ou locar um imóvel, mas também uma interação 100% digital, segura e automatizada.
 
 
-## 1.1 Problema
+### 1.1 Problema
 
 Com a presença da internet se tornando essencial no dia a dia de todos, seja no auxílio aos estudos, no entretenimento em geral, bem como no oferecimento de serviços de estadia em hotéis, pousadas e/ou casas, nem todos os serviços disponíveis estão capacitados ou preocupados em aproximar/interagir com o público interessado em locação de imóveis no litoral brasileiro, de forma digital.
 
 Buscando dirimir essa lacuna, o grupo procura melhorar a interatividade entre o anfitrião (locador) e o hóspede (locatário), promovendo o acesso a uma plataforma de serviço online de locação de imovéis por temporada, nas regiões litorâneas do Brasil.
 
 
-## 1.2 Objetivos
+### 1.2 Objetivos
 
 Nosso projeto tem como objetivo central a criação de um software que proporcione uma maior aproximação e interação entre o anfitrião (locador) e o hóspede (locatário), no acesso à imóveis mobiliados disponíveis para locação de curta e média permanência, no litoral brasileiro, de forma 100% digital, segura e automatizada. 
 
@@ -47,7 +47,7 @@ Como objetivos específicos, podemos citar:
 - Apresentar os perfis de acesso, separados por categorias (anfitrião e hóspede), para melhor trato com os diferentes usuários.
 
 
-## 1.3 Justificativa
+### 1.3 Justificativa
 
 O que impulsionou a elaboração deste projeto foi entender que, em um mundo onde a tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoam consomem, negociam e até tomam decisões, disponibilizar uma ferramenta online para locação de imóveis de curta e média permanência, que seja ágil, segura e de fácil acesso, vai de encontro com as necessidades atuais e pode trazer muitos benefícios tanto para o anfitrião (locador), quanto para o hóspede (locatário) (GO BlogCredpago, 2021).
 
@@ -58,7 +58,7 @@ Além disso, segundo estudo realizado pela Brain Inteligência Estratégica (202
 Diante disso, uma aplicação online que faça a ligação entre anfitrião (locador) e hóspede (locatário) torna-se de grande utilidade numa era onde características como agilidade, facilidade e segurança são tão valorizadas.
 
 
-## 1.4 Público-alvo
+### 1.4 Público-alvo
 
   As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
  
@@ -70,7 +70,7 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 A definição exata do problema e os pontos mais relevantes a serem tratados no projeto foi estabelecido com a participação dos usuários por meio de entrevista online com tópicos previamente estipulados. A partir dessa interação consolidamos os dados coletados na forma de personas e histórias de usuários.
 
 
-## 2.1 Personas
+### 2.1 Personas
   
 As pessoas retratadas durante o processo de compreensão do problema são apresentadas nas figuras que seguem.
 
@@ -89,7 +89,7 @@ Quadro 01 - Personas
 Fonte: Elaborado pelos autores
 
 
-## 2.2 Histórias dos Usuários
+### 2.2 Histórias dos Usuários
 
 Registramos as histórias de usuários no quadro abaixo, diante da informação coletada do dia a dia das personas identificadas para o projeto.
 
@@ -107,12 +107,12 @@ Quadro 02 - História de Usuários
 Fonte: Elaborado pelos autores
 
 
-## 2.3 Requisitos e Restrições do Projeto
+### 2.3 Requisitos e Restrições do Projeto
 
 O propósito funcional do projeto é definido por meio dos requisitos funcionais que descrevem ações que o sistema deve estar apto a executar, assim como os requisitos não funcionais que descrevem os atributos que o sistema deve possuir de maneira geral. Estes requisitos são relacionados nas tabelas a seguir.
 
 
-## 2.3.1 Requisitos Funcionais
+#### 2.3.1 Requisitos Funcionais
 
 Apresentamos a seguir os requisitos funcionais que o projeto deverá atender.
 
@@ -134,7 +134,7 @@ Quadro 03 - Requisitos Funcionais
 Fonte: Elaborado pelos autores
 
 
-## 2.3.2 Requisitos Não Funcionais
+#### 2.3.2 Requisitos Não Funcionais
 
 Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
 
@@ -156,7 +156,7 @@ Quadro 04 - Requisitos Não Funcionais
 Fonte: Elaborado pelos autores
 
 
-## 2.3.3 Restrições
+#### 2.3.3 Restrições
 
 Apresentamos na tabela abaixo, tópicos consideráveis que limitam a execução do projeto e que se configuram como encargos necessários para seu desenvolvimento.
 
@@ -173,11 +173,11 @@ Quadro 05 - Restrições
 Fonte: Elaborado pelos autores
 
 
-## 2.4 Diagramas de Casos de Uso
+### 2.4 Diagramas de Casos de Uso
 
 **O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que  não se utiliza diagramas de caso de uso para requisitos não-funcionais. Como atores é importante a identificação dos grupos de todos os envolvidos que interagem com o sistema, principalmente outros sistemas ou sensores. Eles são representados graficamente por bonecos-palito e serão nomeados pelos papéis nas interações nas quais estão envolvidos (ex. Cliente, Administrador). Lembre-se de que o próprio sistema não pode ser ator do diagrama que o modela. Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensões entre casos de uso.**
 
-2.4.1
+#### 2.4.1
 
 |ATOR| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
@@ -208,7 +208,10 @@ Fonte: Elaborado pelos autores
 || escrever descrição |
 || escrever descrição |
 
-### 2.4.2 Representação Visual
+Fonte: Elaborado pelos autores
+
+
+#### 2.4.2 Representação Visual
 
 Figura 1 – Diagrama de Casos de Uso
 
