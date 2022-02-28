@@ -217,6 +217,8 @@ Figura 1 – Diagrama de Casos de Uso
 
 ![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel/blob/main/docs/img/DiagramaDeCasosDeUso.png)
  
+Fonte: Elaborado pelos autores
+
 
 ## Referências Bibliográficas
 
