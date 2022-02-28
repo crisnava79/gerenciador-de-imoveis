@@ -24,9 +24,13 @@ Para o anfitrião (locador), o serviço de locação por temporada sempre foi um
 
 Diante desse contexto, surge a necessidade de uma plataforma focada no serviço online de locação por temporada de imóveis nas regiões litorâneas, oferecendo não somente conforto, qualidade e segurança para aqueles que desejam disponibilizar ou locar um imóvel, mas também uma interação 100% digital, segura e automatizada.
 
+
 ## 1.1 Problema
 
-Congênere o exposto, 
+Com a presença da internet se tornando essencial no dia a dia de todos, seja no auxílio aos estudos, no entretenimento em geral, bem como no oferecimento de serviços de estadia em hotéis, pousadas e/ou casas, nem todos os serviços disponíveis estão capacitados ou preocupados em aproximar/interagir com o público interessado em locação de imóveis no litoral brasileiro, de forma digital.
+
+Buscando dirimir essa lacuna, o grupo procura melhorar a interatividade entre o anfitrião (locador) e o hóspede (locatário), promovendo o acesso a uma plataforma de serviço online de locação de imovéis por temporada, nas regiões litorâneas do Brasil.
+
 
 ## 1.2 Objetivos
 
@@ -64,9 +68,8 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 ## 2. Especificação do Projeto
 
 ## 2.1 Personas
- 
- 
- As pessoas levantadas são apresentadas para entender o problema nas figuras que seguem.
+  
+As pessoas levantadas são apresentadas para entender o problema nas figuras que seguem.
  
 | Carlos José      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
@@ -78,6 +81,7 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 |![image](https://user-images.githubusercontent.com/90849504/155332783-71cbcd9f-b0b1-46e5-a589-01341dc2394a.png)|**Idade:** 30 anos - **Ocupação:** Analista de Sistemas |**Aplicativos:** Linkedin, Instagram.|
 |**Motivações:**  Caio reside em Belo Horizonte, é funcionário de uma empresa de TI dos Estados Unidos, exerce sua função em home office período integral, e adora conhecer novos lugares, e sempre mudar seu local de trabalho, se sente criativo. |**Frustrações:**  Escolher lugares diferentes e criativos para desenvolver sua função,  acha um tédio ficar somente em sua casa. |**Hobbies, História:** ???? vamos colocar??? |
  
+Fonte: Elaborado pelos autores
 
 
 ## 2.2 Histórias dos Usuários
@@ -101,6 +105,7 @@ Fonte: Elaborado pelos autores
 ## 2.3 Requisitos e Restrições do Projeto
 
 O propósito funcional do projeto é definido por meio dos requisitos funcionais que descrevem ações que o sistema deve estar apto a executar, assim como os requisitos não funcionais que descrevem os atributos que o sistema deve possuir de maneira geral. Estes requisitos são relacionados nas tabelas a seguir.
+
 
 ## 2.3.1 Requisitos Funcionais
 
