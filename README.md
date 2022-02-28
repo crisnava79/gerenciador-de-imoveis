@@ -114,6 +114,8 @@ O propósito funcional do projeto é definido por meio dos requisitos funcionais
 
 ## 2.3.1 Requisitos Funcionais
 
+Apresentamos a seguir os requisitos funcionais que o projeto deverá atender.
+
 Quadro 03 - Requisitos Funcionais
 
 |ID       | Descrição do Requisito  | Prioridade |
