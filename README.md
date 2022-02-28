@@ -112,7 +112,7 @@ Fonte: Elaborado pelos autores
 O propósito funcional do projeto é definido por meio dos requisitos funcionais que descrevem ações que o sistema deve estar apto a executar, assim como os requisitos não funcionais que descrevem os atributos que o sistema deve possuir de maneira geral. Estes requisitos são relacionados nas tabelas a seguir.
 
 
-#### 2.3.1 Requisitos Funcionais
+### 2.3.1 Requisitos Funcionais
 
 Apresentamos a seguir os requisitos funcionais que o projeto deverá atender.
 
@@ -134,7 +134,7 @@ Quadro 03 - Requisitos Funcionais
 Fonte: Elaborado pelos autores
 
 
-#### 2.3.2 Requisitos Não Funcionais
+### 2.3.2 Requisitos Não Funcionais
 
 Apresentamos a seguir os requisitos não funcionais que o projeto deverá atender.
 
@@ -156,7 +156,7 @@ Quadro 04 - Requisitos Não Funcionais
 Fonte: Elaborado pelos autores
 
 
-#### 2.3.3 Restrições
+### 2.3.3 Restrições
 
 Apresentamos na tabela abaixo, tópicos consideráveis que limitam a execução do projeto e que se configuram como encargos necessários para seu desenvolvimento.
 
@@ -177,7 +177,7 @@ Fonte: Elaborado pelos autores
 
 **O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que  não se utiliza diagramas de caso de uso para requisitos não-funcionais. Como atores é importante a identificação dos grupos de todos os envolvidos que interagem com o sistema, principalmente outros sistemas ou sensores. Eles são representados graficamente por bonecos-palito e serão nomeados pelos papéis nas interações nas quais estão envolvidos (ex. Cliente, Administrador). Lembre-se de que o próprio sistema não pode ser ator do diagrama que o modela. Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensões entre casos de uso.**
 
-#### 2.4.1
+### 2.4.1
 
 |ATOR| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
@@ -211,7 +211,7 @@ Fonte: Elaborado pelos autores
 Fonte: Elaborado pelos autores
 
 
-#### 2.4.2 Representação Visual
+### 2.4.2 Representação Visual
 
 Figura 1 – Diagrama de Casos de Uso
 
