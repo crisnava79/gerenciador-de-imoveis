@@ -85,7 +85,17 @@ Quadro 01 - Personas
 |--------------------|------------------------------------|----------------------------------------|
 |![image](https://user-images.githubusercontent.com/90849504/155332783-71cbcd9f-b0b1-46e5-a589-01341dc2394a.png)|**Idade:** 30 anos - **Ocupação:** Analista de Sistemas |**Aplicativos:** Linkedin, Instagram.|
 |**Motivações:**  Caio reside em Belo Horizonte, é funcionário de uma empresa de TI dos Estados Unidos, exerce sua função em home office período integral, e adora conhecer novos lugares, e sempre mudar seu local de trabalho, se sente criativo. |**Frustrações:**  Escolher lugares diferentes e criativos para desenvolver sua função,  acha um tédio ficar somente em sua casa. |**Hobbies, História:** ???? vamos colocar??? |
- 
+
+| Ernesto de Aguiar  |                                    |                |
+|--------------------|------------------------------------|----------------------------------------|
+|![Ernesto de Aguiar](https://user-images.githubusercontent.com/91228798/156084630-85b46cb1-6b65-421a-96ef-a36e22e31cfa.png) |**Idade:** 55 anos - **Ocupação:** Empresario. Gerenciador e proprietário de duas casas no litoral do rio de Janeiro.  | **Aplicativos:** Facebook  WhatsApp  |
+|**Motivações:** Dar uma vida melhor para os filhos. Adquirir uma renda extra para se aposentar.           |**Frustrações:** Grande concorrência. Dificuldade em divulgar o aluguel de suas propriedades. Falta de confinaça em utilizar a internet.                                                                          |**Hobbies, História:** Realiza caminhadas ao pôr do sol. Pai de dois filhos. Empresário a mais de 10 anos.| 
+
+| Clara Castilho | | |                     
+|--------------------|------------------------------------|----------------------------------------|
+|![Clara Castilho](https://user-images.githubusercontent.com/91228798/156085854-c975e333-995f-4aff-be7f-5e054ee95052.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp  Instagram.|
+|**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hoteis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar o mundo.|
+
 Fonte: Elaborado pelos autores
 
 
