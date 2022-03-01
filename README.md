@@ -191,27 +191,27 @@ Fonte: Elaborado pelos autores
 
 |ATOR| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
-|Usuário| Pessoa interessada em descartar materiais da maneira correta. |
-|BD| Banco de dados que deve armazenar e buscar as informações dos usuários e das solicitações de descarte e coleta.|
-|Ecoponto| Local disponibilizado  para descarte dos materiais recicláveis e eletrônico.|
+|Locador| Pessoa interessada em disponibilizar seu imóvel para aluguéis de temporada. |
+|Locatário| Pessoa interessada em alugar um imóvel de temporada. |
+|BD| Banco de dados que deve armazenar e buscar as informações dos locadores, locatários e dos imóveis cadastrados.|
+|SAC| Serviço de atendimento ao cliente administrado pelo site.|
 
 |CASO DE USO| DESCRIÇÃO | RF |
 |--|-------------------------------------------------------|----------------------|
-|Criar conta | escrever descrição | RF-00 |
-|Fazer login | escrever descrição | RF-00 |
-|Consultar imóveis | escrever descrição | RF-00 |
-|Reservar imóvel | escrever descrição | RF-00 |
-|Consultar reserva| escrever descrição | RF-00 |
-|Alterar reserva | escrever descrição | RF-00 |
-|Cancelar reserva | escrever descrição | RF-00 |
-|Pagar reserva | escrever descrição | RF-00 |
-|Avaliar estadia | escrever descrição | RF-00 | 
-|Falar com locador | escrever descrição | RF-00 |
-|Falar com SAC | escrever descrição | RF-00 |
-|Cadastrar imóvel | escrever descrição | RF-00 |
-|Consultar reservas locatário | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
+|Criar conta | Locadores e locatários devem criar uma conta para utilizar os serviços oferecidos pela aplicação. | RF-00 |
+|Fazer login | Locadores e locatários devem fazer seu login para acessar sua conta. | RF-00 |
+|Consultar imóveis | Os atores podem consultar e filtrar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-00 |
+|Reservar imóvel | O locatário pode reservar um imóvel conforme disponibilidade. | RF-00 |
+|Consultar reserva| Locadores e locatários podem consultar as reservas referentes a seus imóveis e locações respectivamente. | RF-00 |
+|Alterar reserva | O locatário pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-00 |
+|Cancelar reserva | O locatário pode cancelar a reserva conforme regras contratuais. | RF-00 |
+|Pagar reserva | O locatário pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-00 |
+|Avaliar estadia | O locatário pode avaliar sua estadia após o início da mesma. | RF-00 | 
+|Falar com locador/locatário | Locadores e locatários podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-00 |
+|Falar com SAC | Os atores podem comunicar-se com SAC disponibilizado pela aplicação. | RF-00 |
+|Cadastrar imóvel | O locador pode cadastrar seus imóveis na aplicação. | RF-00 |
+|Alterar dados cadastrais| Os atores podem fazer alterações referentes ao seu cadastro pessoal e aos seus imóveis cadastrados. | RF-00 |
+|Excluir conta | Os atores podem excluir sua conta quando assim o desejarem. | RF-00 |
 |escrever caso | escrever descrição | RF-00 |
 |escrever caso | escrever descrição | RF-00 |
 
