@@ -197,15 +197,21 @@ Fonte: Elaborado pelos autores
 
 |CASO DE USO| DESCRIÇÃO | RF |
 |--|-------------------------------------------------------|----------------------|
+|Criar conta | escrever descrição | RF-00 |
+|Fazer login | escrever descrição | RF-00 |
+|Consultar imóveis | escrever descrição | RF-00 |
+|Reservar imóvel | escrever descrição | RF-00 |
+|Consultar reserva| escrever descrição | RF-00 |
+|Alterar reserva | escrever descrição | RF-00 |
+|Cancelar reserva | escrever descrição | RF-00 |
+|Pagar reserva | escrever descrição | RF-00 |
+|Avaliar estadia | escrever descrição | RF-00 | 
+|Falar com locador | escrever descrição | RF-00 |
+|Falar com SAC | escrever descrição | RF-00 |
+|Cadastrar imóvel | escrever descrição | RF-00 |
+|Consultar reservas locatário | escrever descrição | RF-00 |
 |escrever caso | escrever descrição | RF-00 |
 |escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 | 
 |escrever caso | escrever descrição | RF-00 |
 |escrever caso | escrever descrição | RF-00 |
 
