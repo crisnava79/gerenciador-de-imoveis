@@ -88,13 +88,13 @@ Quadro 01 - Personas
 
 | Ernesto de Aguiar  |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![Ernesto de Aguiar](https://user-images.githubusercontent.com/91228798/156084630-85b46cb1-6b65-421a-96ef-a36e22e31cfa.png) |**Idade:** 55 anos - **Ocupação:** Empresario. Gerenciador e proprietário de duas casas no litoral do rio de Janeiro.  | **Aplicativos:** Facebook  WhatsApp  |
-|**Motivações:** Dar uma vida melhor para os filhos. Adquirir uma renda extra para se aposentar.           |**Frustrações:** Grande concorrência. Dificuldade em divulgar o aluguel de suas propriedades. Falta de confinaça em utilizar a internet.                                                                          |**Hobbies, História:** Realiza caminhadas ao pôr do sol. Pai de dois filhos. Empresário a mais de 10 anos.| 
+|![Ernesto de Aguiar](https://user-images.githubusercontent.com/91228798/156084630-85b46cb1-6b65-421a-96ef-a36e22e31cfa.png) |**Idade:** 55 anos - **Ocupação:** Empresário. Gerenciador e proprietário de duas casas no litoral do Rio de Janeiro.  | **Aplicativos:** Facebook, WhatsApp  |
+|**Motivações:** Dar uma vida melhor para os filhos. Adquirir uma renda extra para se aposentar.           |**Frustrações:** Grande concorrência. Dificuldade em divulgar o aluguel de suas propriedades. Falta de confinaça em utilizar a internet.  |**Hobbies, História:** Realiza caminhadas ao pôr do sol. Pai de dois filhos. Empresário a mais de 10 anos.| 
 
-| Clara Castilho | | |                     
+| Clara Castilho |                |                  |                     
 |--------------------|------------------------------------|----------------------------------------|
-|![Clara Castilho](https://user-images.githubusercontent.com/91228798/156085854-c975e333-995f-4aff-be7f-5e054ee95052.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp  Instagram.|
-|**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hoteis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar o mundo.|
+|![Clara Castilho](https://user-images.githubusercontent.com/91228798/156085854-c975e333-995f-4aff-be7f-5e054ee95052.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp, Instagram.|
+|**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hotéis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar pelo mundo.|
 
 Fonte: Elaborado pelos autores
 
@@ -130,15 +130,15 @@ Quadro 03 - Requisitos Funcionais
 
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-------------------------|------------|
-|RF-001   | descrição | prioridade | 
-|RF-002   | descrição | prioridade|
-|RF-003   | descrição | prioridade |
-|RF-004   | descrição | prioridade |
-|RF-005   | descrição | prioridade |
-|RF-006   | descrição | prioridade |
-|RF-007   | descrição | prioridade |
-|RF-008   | descrição | prioridade |
-|RF-009   | descrição | prioridade |      
+|RF-001   | Oferecer a possibilidade do anfitrião (locador) cadastrar e disponibilizar seu imóvel para locação de temporada, através da plataforma. | prioridade | 
+|RF-002   | Permitir que o hóspede (locatário) alugue o imóvel escolhido, através da plataforma. | prioridade|
+|RF-003   | Permitir ao hóspede (locatário) a busca de imóveis cadastrados na plataforma. | prioridade |
+|RF-004   | Dispor os imóveis, separados por categorias personalizadas, para uma melhor interação do usuário. | prioridade |
+|RF-005   | Fornecer campo específico para comentários, pelos hóspedes (locatários), referentes a relatos de suas experiências de interação e/ou locação. | prioridade |
+|RF-006   | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um imóvel específico e fácil acesso aos imóveis já viabilizados na plataforma. | prioridade |
+|RF-007   | O site deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | prioridade |
+|RF-008   | O sistema deve permitir o cadastro de novos usuários (anfitrião e hóspede), realizando a validação através de um e-mail de confirmação. | prioridade |
+|RF-009   | Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | prioridade |      
 |RF-010   | descrição | prioridade |
 
 Fonte: Elaborado pelos autores
@@ -157,7 +157,7 @@ Quadro 04 - Requisitos Não Funcionais
 |RNF-003 | Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | prioridade  | 
 |RNF-004 | Permitir a visualização adequada em um Smartphone. | prioridade  | 
 |RNF-005 | O desenvolvimento deve ser utilizando nas linguagens de Front-End e Back-End (C# ???). | prioridade  | 
-|RNF-006 | descrição | prioridade  | 
+|RNF-006 | Manutenção do cadastro do usuário (anfitrião e hóspede). | prioridade  | 
 |RNF-007 | descrição | prioridade  | 
 |RNF-008 | descrição | prioridade  |
 |RNF-009 | descrição | prioridade  |
@@ -176,7 +176,7 @@ Quadro 05 - Restrições
 |-----|-------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
 |RE-02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
-|RE-03| descrição |
+|RE-03| O aplicativo deve se restringir às tecnologias propostas pelo curso. (??) |
 |RE-04| descrição |
 |RE-05| descrição |
 
