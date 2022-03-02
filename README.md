@@ -95,8 +95,10 @@ Quadro 01 - Personas
 |--------------------|------------------------------------|----------------------------------------|
 |![Clara Castilho](https://user-images.githubusercontent.com/91228798/156085854-c975e333-995f-4aff-be7f-5e054ee95052.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp, Instagram.|
 |**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hotéis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar pelo mundo.|
+
  
 Marina![image](https://user-images.githubusercontent.com/90849504/156270416-dbb79052-6641-467d-8521-21af8c334694.png)
+![image](https://user-images.githubusercontent.com/90849504/156270644-0ba59401-340b-46ca-963f-72a6ecf12678.png)
 
 Marina
 Idade: 40 anos
