@@ -96,33 +96,10 @@ Quadro 01 - Personas
 |![Clara Castilho](https://user-images.githubusercontent.com/91228798/156458375-3f731c6d-6ba3-4af7-ae83-d73682390cd2.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp, Instagram.|
 |**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hotéis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar pelo mundo.|
 
-Em
-![image](https://user-images.githubusercontent.com/90849504/156270644-0ba59401-340b-46ca-963f-72a6ecf12678.png)
-
-Marina
-Idade: 40 anos
-
-Ocupação: Secretária Executiva em uma multinacional.
-
-
-Motivações:
-Realizar eventos para ajudar comunidades carentes.
-Prestar serviços para ONG de Animais em situação de rua.
-
-Frustações:
-Constatar um grande número de animais abandonados.
-Falta de respeito com os animais
-
-
-Aplicativos:
-Linkedin.
-Instagran
-
-
-Hobbies, História:
-Viajar com sua família e com seus animais de estimação.
-Praticar ciclismo.
-
+| Marina | | |                    
+|--------------------|------------------------------------|----------------------------------------|
+|![Marina](https://user-images.githubusercontent.com/91228798/156465093-eae46d42-ca19-40ed-afac-42115d8ad186.png) |**Idade:** 40 anos - **Ocupação:** Secretária Executiva em uma multinacional|**Aplicativos:** Linkedin, Instagram.|
+|**Motivações:**  Realizar eventos para ajudar comunidades carentes. Prestar serviços para ONG de Animais em situação de rua. |**Frustrações:** Constatar um grande número de animais abandonados. Falta de respeito com os animais|**Hobbies, História:** Viajar com sua família e com seus animais de  estimação. Praticar ciclismo.|
 
 Fonte: Elaborado pelos autores
 
