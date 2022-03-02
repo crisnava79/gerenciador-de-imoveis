@@ -79,12 +79,12 @@ Quadro 01 - Personas
 | Carlos José      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](https://user-images.githubusercontent.com/90849504/155332734-933e956a-909b-4d7f-af7c-538b2a0f4357.png)|**Idade:** 35 anos - **Ocupação:** Corretor de Imóveis, especialista em Aluguel para Temporada |**Aplicativos:** Linkedin, Instagram.|
-|**Motivações:** Oferecer imóveis que possa promover lazer e conforto em aluguéis para temporada.  |**Frustrações:** Oferecer imóveis quase perfeito para seu clientes. |**Hobbies, História:** ???? vamos colocar??? | 
+|**Motivações:** Oferecer imóveis de aluguel para promover lazer e conforto.|**Frustrações:** Não conseguir alcançar clientes de outras cidades. |**Hobbies, História:** Pratica futebol uma vez por semana e gosta de reunir a família aos fins de semana |
 
 | Caio      |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/90849504/155332783-71cbcd9f-b0b1-46e5-a589-01341dc2394a.png)|**Idade:** 30 anos - **Ocupação:** Analista de Sistemas |**Aplicativos:** Linkedin, Instagram.|
-|**Motivações:**  Caio reside em Belo Horizonte, é funcionário de uma empresa de TI dos Estados Unidos, exerce sua função em home office período integral, e adora conhecer novos lugares, e sempre mudar seu local de trabalho, se sente criativo. |**Frustrações:**  Escolher lugares diferentes e criativos para desenvolver sua função,  acha um tédio ficar somente em sua casa. |**Hobbies, História:** ???? vamos colocar??? |
+|![Caio](https://user-images.githubusercontent.com/91228798/156463881-5e25aced-eb5b-4e3c-bce1-f872e57f97cd.png) |**Idade:** 30 anos - **Ocupação:** Analista de Sistemas |**Aplicativos:** Linkedin, Instagram.|
+|**Motivações:**  Adora conhecer novos lugares. Sempre gostou de mudar seu local de trabalho, pois se sente mais criativo.|**Frustrações:**  Acha um tédio trabalhar de home office sempre no mesmo lugar.|**Hobbies, História:** Reside em Belo Horizonte. Funcionário de uma empresa de TI dos Estados Unidos. Exerce sua função em home office período integral.|
 
 | Ernesto de Aguiar  |                                    |                |
 |--------------------|------------------------------------|----------------------------------------|
