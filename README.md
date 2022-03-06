@@ -135,16 +135,20 @@ Quadro 03 - Requisitos Funcionais
 
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-------------------------|------------|
-|RF-001   | Oferecer a possibilidade do anfitrião (locador) cadastrar e disponibilizar seu imóvel para locação de temporada, através da plataforma. | prioridade | 
-|RF-002   | Permitir que o hóspede (locatário) alugue o imóvel escolhido, através da plataforma. | prioridade|
-|RF-003   | Permitir ao hóspede (locatário) a busca de imóveis cadastrados na plataforma. | prioridade |
-|RF-004   | Dispor os imóveis, separados por categorias personalizadas, para uma melhor interação do usuário. | prioridade |
-|RF-005   | Fornecer campo específico para comentários, pelos hóspedes (locatários), referentes a relatos de suas experiências de interação e/ou locação. | prioridade |
-|RF-006   | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um imóvel específico e fácil acesso aos imóveis já viabilizados na plataforma. | prioridade |
-|RF-007   | O site deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | prioridade |
-|RF-008   | O sistema deve permitir o cadastro de novos usuários (anfitrião e hóspede), realizando a validação através de um e-mail de confirmação. | prioridade |
-|RF-009   | Deve ser possível ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | prioridade |      
-|RF-010   | descrição | prioridade |
+|RF-001   | O sistema deve permitir ao usuário realizar o cadastro como anfitrião (locador) e ou hóspede (locatário), realizando a validação através de um e-mail de confirmação. | Alta |
+|RF-002   | O sistema deve permitir ao usuário editar e excluir seu cadastro. | Alta | 
+|RF-003   | O sistema deve permitir ao anfitrião (locador) cadastrar e disponibilizar seu imóvel para locação de temporada. | Alta | 
+|RF-004   | O sistema deve permitir ao anfitrião (locador) editar as informações e excluir o imóvel cadastrado. | Alta |
+|RF-005   | O sistema deve permitir que o hóspede (locatário) alugue o imóvel escolhido. | Alta|
+|RF-006   | O sistema deve permitir ao hóspede (locatário) realizar a busca de imóveis por tipo de imóvel e quantidade de cômodos. | Média |
+|RF-007   | O sistema deve mostrar os imóveis separados por categorias personalizadas, para uma melhor interação do usuário. | Média |
+|RF-008   | O sistema deve permitir que os imóveis sejam salvos em uma lista de favoritos. | Baixa |
+|RF-009   | O sistema deve fornecer um campo específico para comentários e avaliação, pelos hóspedes (locatários), referentes a relatos de suas experiências de interação e/ou locação. | Média |
+|RF-010   | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um imóvel específico e fácil acesso aos imóveis já viabilizados na plataforma. | Média |
+|RF-011   | O sistema deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | Alta |
+|RF-012   | O sistema deve diponibilizar formas de pagamento para o imóvel alugado. | Média |
+|RF-013   | O sistema deve permitir ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | Alta |      
+|RF-014   | O sistema deve dispor de um calendário para que hóspede (locatário) verifique se o imóvel estará disponível na data desejada | Alta |
 
 Fonte: Elaborado pelos autores
 
@@ -157,16 +161,16 @@ Quadro 04 - Requisitos Não Funcionais
 
 |ID      | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|-----------|
-|RNF-001 | O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS. | prioridade  | 
-|RNF-002 | O site deve ter bom nível de contraste entre os elementos da tela em conformidade. | prioridade  | 
-|RNF-003 | Site compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | prioridade  | 
-|RNF-004 | Permitir a visualização adequada em um Smartphone. | prioridade  | 
+|RNF-001 | O sistema deve ser multiplataforma, possibilitando seu uso em dispositivos com Windows, Linux e macOS. | Alta  | 
+|RNF-002 | O sistema deve ter bom nível de contraste entre os elementos da tela em conformidade. | Alta  | 
+|RNF-003 | O sistema deve ser compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | Alta  | 
+|RNF-004 | O sistema deve ser responsivo em ambientes mobile. | Alta  | 
 |RNF-005 | O desenvolvimento deve ser utilizando nas linguagens de Front-End e Back-End (C# ???). | prioridade  | 
-|RNF-006 | Manutenção do cadastro do usuário (anfitrião e hóspede). | prioridade  | 
-|RNF-007 | descrição | prioridade  | 
-|RNF-008 | descrição | prioridade  |
-|RNF-009 | descrição | prioridade  |
-|RNF-010 | descrição | prioridade  |
+|RNF-006 | Manutenção do cadastro do usuário (anfitrião e hóspede). | Alta  | 
+|RNF-007 | O sistema deve utilizar-se do recurso VLibras ( ferramentas gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras. | Média  | 
+|RNF-008 | O sistema deve processar requisições do usuário em no máximo 10s. | Média |
+|RNF-009 | O sistema deve estar de acordo com LGPD, Lei Geral de Proteção de Dados.| Alta |
+|RNF-010 | O sistema deve possuir acessibilidade para deficientes visuais. | Média  |
 
 Fonte: Elaborado pelos autores
 
@@ -182,8 +186,8 @@ Quadro 05 - Restrições
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
 |RE-02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 |RE-03| O aplicativo deve se restringir às tecnologias propostas pelo curso. (??) |
-|RE-04| descrição |
-|RE-05| descrição |
+|RE-04| O projeto deve seguir as regras de acessibilidade da W3C. |
+|RE-05| Não é possível acesso ao sistema sem acesso de internet. |
 
 Fonte: Elaborado pelos autores
 
