@@ -187,7 +187,7 @@ Quadro 05 - Restrições
 |RE-02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
 |RE-03| O aplicativo deve se restringir às tecnologias propostas pelo curso. (??) |
 |RE-04| O projeto deve seguir as regras de acessibilidade da W3C. |
-|RE-05| Não é possível acesso ao sistema sem acesso de internet. |
+|RE-05| Não é possível acesso ao sistema sem conexão de internet. |
 
 Fonte: Elaborado pelos autores
 
