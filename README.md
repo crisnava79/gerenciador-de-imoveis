@@ -101,6 +101,11 @@ Quadro 01 - Personas
 |![Marina](https://user-images.githubusercontent.com/91228798/156465093-eae46d42-ca19-40ed-afac-42115d8ad186.png) |**Idade:** 40 anos - **Ocupação:** Secretária Executiva em uma multinacional|**Aplicativos:** Linkedin, Instagram.|
 |**Motivações:**  Realizar eventos para ajudar comunidades carentes. Prestar serviços para ONG de Animais em situação de rua. |**Frustrações:** Constatar um grande número de animais abandonados. Falta de respeito com os animais|**Hobbies, História:** Viajar com sua família e com seus animais de  estimação. Praticar ciclismo.|
 
+| NOME PERSONA | | |                    
+|--------------------|------------------------------------|----------------------------------------|
+|FOTO |**Idade:** XX anos - **Ocupação:** XXXXX |**Aplicativos:** XXXXXXXXX.|
+|**Motivações:**  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX. |**Frustrações:** XXXXXXXXXXXXXXXXXXXXXXXXXXXX |**Hobbies, História:** XXXXXXXXXXXXXXXXXXX.|
+
 Fonte: Elaborado pelos autores
 
 
@@ -148,15 +153,11 @@ Quadro 03 - Requisitos Funcionais
 |RF-011   | O sistema deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | Alta |
 |RF-012   | O sistema deve diponibilizar formas de pagamento para o imóvel alugado. | Média |
 |RF-013   | O sistema deve permitir ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | Alta |      
-|RF-014   | O sistema deve dispor de um calendário para que hóspede (locatário) verifique se o imóvel estará disponível na data desejada | Alta |
+|RF-014   | O sistema deve dispor de um calendário para que o hóspede (locatário) verifique se o imóvel estará disponível na data desejada. | Alta |
 |RF-015   | O sistema deve permitir que o cliente faça login em sua conta através do seu e-mail e senha cadastrados. | Alta |
 |RF-016   | O sistema deve permitir que o cliente acesse suas reservas e possa alterar e cancelar a mesma, conforme regras contratuais e disponibilidade. | Alta |
-|RF-017   | O sistema deve permitir que o cliente/abfitrião cadastre dados para recebimento das reservas feitas no seu imóvel. | Alta |
+|RF-017   | O sistema deve permitir que o anfitrião cadastre dados para recebimento das reservas feitas no seu imóvel. | Alta |
 |RF-018   | O sistema deve disponibilizar um meio de contato para que anfitrião e hóspede possam comunicar-se entre si. | Alta |
-
-
-
-
 
 Fonte: Elaborado pelos autores
 
@@ -174,10 +175,10 @@ Quadro 04 - Requisitos Não Funcionais
 |RNF-003 | O sistema deve ser compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | Alta  | 
 |RNF-004 | O sistema deve ser responsivo em ambientes mobile. | Alta  | 
 |RNF-005 | O desenvolvimento deve ser utilizando nas linguagens de Front-End e Back-End (C# ???). | prioridade  | 
-|RNF-006 | Manutenção do cadastro do usuário (anfitrião e hóspede). | Alta  | 
-|RNF-007 | O sistema deve utilizar-se do recurso VLibras ( ferramentas gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras. | Média  | 
+|RNF-006 | O sistema deve permitir a manutenção do cadastro do usuário (anfitrião e hóspede). | Alta  | 
+|RNF-007 | O sistema deve utilizar-se do recurso VLibras (ferramentas gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras. | Média  | 
 |RNF-008 | O sistema deve processar requisições do usuário em no máximo 10s. | Média |
-|RNF-009 | O sistema deve estar de acordo com LGPD, Lei Geral de Proteção de Dados.| Alta |
+|RNF-009 | O sistema deve estar de acordo com LGPD (Lei Geral de Proteção de Dados).| Alta |
 |RNF-010 | O sistema deve possuir acessibilidade para deficientes visuais. | Média  |
 
 Fonte: Elaborado pelos autores
@@ -253,8 +254,9 @@ Fonte: Elaborado pelos autores
 
 ### 2.4.2 Representação Visual
 
-![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/157109202-acceaf20-3d23-40f9-89a8-cf9ac4f4cfc4.jpeg)
 Figura 1 – Diagrama de Casos de Uso
+
+![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/157109202-acceaf20-3d23-40f9-89a8-cf9ac4f4cfc4.jpeg)
  
 Fonte: Elaborado pelos autores
 
