@@ -224,7 +224,7 @@ Fonte: Elaborado pelos autores
 |Buscar imóveis | O cliente pode buscar, filtrar e favoritar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14 |
 |Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-05 |
 |Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-12 |
-|Consultar reserva| O cliente pode consultar suas reservas realizadas. | RF-16 |
+|Acessar reserva| O cliente pode consultar suas reservas realizadas. | RF-16 |
 |Editar reserva | O cliente pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-16 |
 |Cancelar reserva | O cliente pode cancelar a reserva conforme regras contratuais. | RF-16 |
 |Falar com anfitrião/hóspede | Anfitriões e hóspedes podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-18 |
@@ -235,23 +235,25 @@ Fonte: Elaborado pelos autores
 
 |RELACIONAMENTO| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
-|INCLUSÃO| escrever descrição |
-|| Após realizar sua reserva, o cliente deve realizar o pagamento da mesma. |
-|| Ao cadastrar seu imóvel, o cliente deve cadastrar dados para recebimento das estadias realizadas no mesmo. | 
-|EXTENSÃO| escrever descrição |
-|| Após criar sua conta e fazer seu login, o cliente pode alterar seus dados cadastrais se desejar. |
-|| Após criar sua conta e fazer seu login, o cliente pode excluir sua conta quando desejar. |
+|INCLUSÃO|  |
+|| Para efetivar sua reserva, o cliente deve fazer o login e realizar o pagamento da mesma. |
+|| Para alterar dados cadastrais, o cliente deve realizar o login. | 
+|| Para excluir sua conta, o cliente deve realizar o login. |
+|| Para acessar sua reserva, o cliente deve fazer o login. |
+|| Para cadastrar um imóvel, o cliente deve criar uma conta. |
+|| Para alterar dados do imóvel, o cliente deve fazer o login. |
+|| Ao cadastrar seu imóvel, o cliente deve também cadastrar dados para recebimento das estadias realizadas no mesmo. | 
+|EXTENSÃO|  |
 || Se o cliente esquecer sua senha, pode redefiní-la informando seu e-mail de cadastro. |
-|| O cliente pode alterar os dados de sua reserva se desejar e conforme disponibilidade e regras contratuais. |
-|| O cliente pode cancelar sua reserva se desejar, conforme regras contratuais. |
-|| Após cadastrar seu imóvel, o cliente pode alterar os dados do mesmo, assim como excluí-lo se assim o desejar.|
+|| O cliente pode alterar os dados de sua reserva se desejar e conforme disponibilidade e regras contratuais, acessando sua reserva através do login. |
+|| O cliente pode cancelar sua reserva se desejar, conforme regras contratuais, acessando sua reserva através do login. |
 
 Fonte: Elaborado pelos autores
 
 
 ### 2.4.2 Representação Visual
 
-![Casos de Uso - Gerenciador de Imóveis 1](https://user-images.githubusercontent.com/89617881/156963511-ad84a9a1-1757-4d17-9c95-78fbccd534ed.jpeg)
+![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/157101271-e3b7cee6-c1a5-4bb5-a541-52d391534ea1.jpeg)
 Figura 1 – Diagrama de Casos de Uso
  
 Fonte: Elaborado pelos autores
