@@ -240,7 +240,8 @@ Fonte: Elaborado pelos autores
 
 Figura 1 – Diagrama de Casos de Uso
 
-![Figura 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t2-descarte-sustentavel/blob/main/docs/img/DiagramaDeCasosDeUso.png)
+![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/156959175-96e1a687-5f15-44a6-aa79-3554d7172b53.jpeg)
+
  
 Fonte: Elaborado pelos autores
 
