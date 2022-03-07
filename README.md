@@ -240,7 +240,7 @@ Fonte: Elaborado pelos autores
 
 Figura 1 – Diagrama de Casos de Uso
 
-![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/156959175-96e1a687-5f15-44a6-aa79-3554d7172b53.jpeg)
+![Casos de Uso - Gerenciador de Imóveis 1](https://user-images.githubusercontent.com/89617881/156963511-ad84a9a1-1757-4d17-9c95-78fbccd534ed.jpeg)
 
  
 Fonte: Elaborado pelos autores
