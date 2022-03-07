@@ -236,21 +236,23 @@ Fonte: Elaborado pelos autores
 |RELACIONAMENTO| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
 |INCLUSÃO| escrever descrição |
-|| escrever descrição |
-|| escrever descrição | 
+|| Após realizar sua reserva, o cliente deve realizar o pagamento da mesma. |
+|| Ao cadastrar seu imóvel, o cliente deve cadastrar dados para recebimento das estadias realizadas no mesmo. | 
 |EXTENSÃO| escrever descrição |
-|| escrever descrição |
-|| escrever descrição |
+|| Após criar sua conta e fazer seu login, o cliente pode alterar seus dados cadastrais se desejar. |
+|| Após criar sua conta e fazer seu login, o cliente pode excluir sua conta quando desejar. |
+|| Se o cliente esquecer sua senha, pode redefiní-la informando seu e-mail de cadastro. |
+|| O cliente pode alterar os dados de sua reserva se desejar e conforme disponibilidade e regras contratuais. |
+|| O cliente pode cancelar sua reserva se desejar, conforme regras contratuais. |
+|| Após cadastrar seu imóvel, o cliente pode alterar os dados do mesmo, assim como excluí-lo se assim o desejar.|
 
 Fonte: Elaborado pelos autores
 
 
 ### 2.4.2 Representação Visual
 
-Figura 1 – Diagrama de Casos de Uso
-
 ![Casos de Uso - Gerenciador de Imóveis 1](https://user-images.githubusercontent.com/89617881/156963511-ad84a9a1-1757-4d17-9c95-78fbccd534ed.jpeg)
-
+Figura 1 – Diagrama de Casos de Uso
  
 Fonte: Elaborado pelos autores
 
