@@ -253,7 +253,7 @@ Fonte: Elaborado pelos autores
 
 ### 2.4.2 Representação Visual
 
-![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/157101271-e3b7cee6-c1a5-4bb5-a541-52d391534ea1.jpeg)
+![Casos de Uso - Gerenciador de Imóveis](https://user-images.githubusercontent.com/89617881/157109202-acceaf20-3d23-40f9-89a8-cf9ac4f4cfc4.jpeg)
 Figura 1 – Diagrama de Casos de Uso
  
 Fonte: Elaborado pelos autores
