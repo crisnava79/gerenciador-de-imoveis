@@ -149,6 +149,14 @@ Quadro 03 - Requisitos Funcionais
 |RF-012   | O sistema deve diponibilizar formas de pagamento para o imóvel alugado. | Média |
 |RF-013   | O sistema deve permitir ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | Alta |      
 |RF-014   | O sistema deve dispor de um calendário para que hóspede (locatário) verifique se o imóvel estará disponível na data desejada | Alta |
+|RF-015   | O sistema deve permitir que o cliente faça login em sua conta através do seu e-mail e senha cadastrados. | Alta |
+|RF-016   | O sistema deve permitir que o cliente acesse suas reservas e possa alterar e cancelar a mesma, conforme regras contratuais e disponibilidade. | Alta |
+|RF-017   | O sistema deve permitir que o cliente/abfitrião cadastre dados para recebimento das reservas feitas no seu imóvel. | Alta |
+|RF-018   | O sistema deve disponibilizar um meio de contato para que anfitrião e hóspede possam comunicar-se entre si. | Alta |
+
+
+
+
 
 Fonte: Elaborado pelos autores
 
@@ -207,23 +215,23 @@ Fonte: Elaborado pelos autores
 
 |CASO DE USO| DESCRIÇÃO | RF |
 |--|-------------------------------------------------------|----------------------|
-|Falar com SAC | O cliente pode comunicar-se com o SAC disponibilizado pela aplicação. | RF-00 |
-|Criar conta | O cliente deve criar uma conta para utilizar os serviços oferecidos pela aplicação. | RF-00 |
-|Alterar dados cadastrais| O cliente pode fazer alterações referentes ao seu cadastro pessoal. | RF-00 |
-|Excluir conta | O cliente pode excluir sua conta quando assim o desejar. | RF-00 
-|Fazer login | O cliente deve fazer login para acessar sua conta. | RF-00 |
-|Redefinir senha | O Cliente pode redefinir sua senha se necessário. | RF-00 |
-|Buscar imóveis | O cliente pode buscar e filtrar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-00 |
-|Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-00 |
-|Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-00 |
-|Consultar reserva| O cliente pode consultar suas reservas realizadas. | RF-00 |
-|Editar reserva | O cliente pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-00 |
-|Cancelar reserva | O cliente pode cancelar a reserva conforme regras contratuais. | RF-00 |
-|Falar com anfitrião/hóspede | Anfitriões e hóspedes podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-00 |
-|Avaliar estadia | O cliente pode avaliar sua estadia após o início da mesma. | RF-00 | 
-|Cadastrar imóvel | O anfitrião deve cadastrar os dados do seu imóvel na aplicação. | RF-00 |
-|Cadastrar dados de recebimento | O anfitrião deve cadastrar os dados para recebimento das reservas realizadas no seu imóvel. | RF-00 |
-|Alterar dados do imóvel | O anfitrião pode alterar dados referentes ao seu imóvel. | RF-00 |
+|Falar com SAC | O cliente pode comunicar-se com o SAC disponibilizado pela aplicação. | RF-11 |
+|Criar conta | O cliente deve criar uma conta para utilizar os serviços oferecidos pela aplicação. | RF-01 |
+|Alterar dados cadastrais| O cliente pode fazer alterações referentes ao seu cadastro pessoal. | RF-02 |
+|Excluir conta | O cliente pode excluir sua conta quando assim o desejar. | RF-02 |
+|Fazer login | O cliente deve fazer login para acessar sua conta. | RF-15 |
+|Redefinir senha | O Cliente pode redefinir sua senha se necessário. | RF-13 |
+|Buscar imóveis | O cliente pode buscar, filtrar e favoritar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14 |
+|Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-05 |
+|Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-12 |
+|Consultar reserva| O cliente pode consultar suas reservas realizadas. | RF-16 |
+|Editar reserva | O cliente pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-16 |
+|Cancelar reserva | O cliente pode cancelar a reserva conforme regras contratuais. | RF-16 |
+|Falar com anfitrião/hóspede | Anfitriões e hóspedes podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-18 |
+|Avaliar estadia | O cliente pode avaliar sua estadia após o início da mesma. | RF-09 | 
+|Cadastrar imóvel | O anfitrião deve cadastrar os dados do seu imóvel na aplicação. | RF-03 |
+|Cadastrar dados de recebimento | O anfitrião deve cadastrar os dados para recebimento das reservas realizadas no seu imóvel. | RF-17 |
+|Alterar dados do imóvel | O anfitrião pode alterar dados referentes ao seu imóvel. | RF-04 |
 
 |RELACIONAMENTO| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
