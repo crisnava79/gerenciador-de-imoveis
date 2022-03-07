@@ -200,29 +200,30 @@ Fonte: Elaborado pelos autores
 
 |ATOR| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
-|Locador| Pessoa interessada em disponibilizar seu imóvel para aluguéis de temporada. |
-|Locatário| Pessoa interessada em alugar um imóvel de temporada. |
-|BD| Banco de dados que deve armazenar e buscar as informações dos locadores, locatários e dos imóveis cadastrados.|
+|Cliente/Hóspede| Pessoa interessada em alugar um imóvel de temporada. |
+|Cliente/Anfitrião| Pessoa interessada em disponibilizar seu imóvel para aluguéis de temporada. |
+|BD| Banco de dados que deve armazenar e buscar as informações dos clientes e dos imóveis cadastrados.|
 |SAC| Serviço de atendimento ao cliente administrado pelo site.|
 
 |CASO DE USO| DESCRIÇÃO | RF |
 |--|-------------------------------------------------------|----------------------|
-|Criar conta | Locadores e locatários devem criar uma conta para utilizar os serviços oferecidos pela aplicação. | RF-00 |
-|Fazer login | Locadores e locatários devem fazer seu login para acessar sua conta. | RF-00 |
-|Consultar imóveis | Os atores podem consultar e filtrar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-00 |
-|Reservar imóvel | O locatário pode reservar um imóvel conforme disponibilidade. | RF-00 |
-|Consultar reserva| Locadores e locatários podem consultar as reservas referentes a seus imóveis e locações respectivamente. | RF-00 |
-|Alterar reserva | O locatário pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-00 |
-|Cancelar reserva | O locatário pode cancelar a reserva conforme regras contratuais. | RF-00 |
-|Pagar reserva | O locatário pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-00 |
-|Avaliar estadia | O locatário pode avaliar sua estadia após o início da mesma. | RF-00 | 
-|Falar com locador/locatário | Locadores e locatários podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-00 |
-|Falar com SAC | Os atores podem comunicar-se com SAC disponibilizado pela aplicação. | RF-00 |
-|Cadastrar imóvel | O locador pode cadastrar seus imóveis na aplicação. | RF-00 |
-|Alterar dados cadastrais| Os atores podem fazer alterações referentes ao seu cadastro pessoal e aos seus imóveis cadastrados. | RF-00 |
-|Excluir conta | Os atores podem excluir sua conta quando assim o desejarem. | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
-|escrever caso | escrever descrição | RF-00 |
+|Falar com SAC | O cliente pode comunicar-se com o SAC disponibilizado pela aplicação. | RF-00 |
+|Criar conta | O cliente deve criar uma conta para utilizar os serviços oferecidos pela aplicação. | RF-00 |
+|Alterar dados cadastrais| O cliente pode fazer alterações referentes ao seu cadastro pessoal. | RF-00 |
+|Excluir conta | O cliente pode excluir sua conta quando assim o desejar. | RF-00 
+|Fazer login | O cliente deve fazer login para acessar sua conta. | RF-00 |
+|Redefinir senha | O Cliente pode redefinir sua senha se necessário. | RF-00 |
+|Buscar imóveis | O cliente pode buscar e filtrar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-00 |
+|Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-00 |
+|Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-00 |
+|Consultar reserva| O cliente pode consultar suas reservas realizadas. | RF-00 |
+|Editar reserva | O cliente pode alterar sua reserva conforme regras contratuais e disponibilidade. | RF-00 |
+|Cancelar reserva | O cliente pode cancelar a reserva conforme regras contratuais. | RF-00 |
+|Falar com anfitrião/hóspede | Anfitriões e hóspedes podem comunicar-se entre si através dos meios de contato disponíveis na aplicação. | RF-00 |
+|Avaliar estadia | O cliente pode avaliar sua estadia após o início da mesma. | RF-00 | 
+|Cadastrar imóvel | O anfitrião deve cadastrar os dados do seu imóvel na aplicação. | RF-00 |
+|Cadastrar dados de recebimento | O anfitrião deve cadastrar os dados para recebimento das reservas realizadas no seu imóvel. | RF-00 |
+|Alterar dados do imóvel | O anfitrião pode alterar dados referentes ao seu imóvel. | RF-00 |
 
 |RELACIONAMENTO| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
