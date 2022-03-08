@@ -221,7 +221,7 @@ Fonte: Elaborado pelos autores
 |Excluir conta | O cliente pode excluir sua conta quando assim o desejar. | RF-02 |
 |Fazer login | O cliente deve fazer login para acessar sua conta. | RF-15 |
 |Redefinir senha | O Cliente pode redefinir sua senha se necessário. | RF-13 |
-|Buscar imóveis | O cliente pode buscar, filtrar, favoritar e compartilhar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14 |
+|Buscar imóveis | O cliente pode buscar, filtrar, favoritar e compartilhar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14, RF-19 |
 |Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-05 |
 |Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-12 |
 |Acessar reserva| O cliente pode consultar suas reservas realizadas. | RF-16 |
