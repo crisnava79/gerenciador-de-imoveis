@@ -158,6 +158,7 @@ Quadro 03 - Requisitos Funcionais
 |RF-016   | O sistema deve permitir que o cliente acesse suas reservas e possa alterar e cancelar a mesma, conforme regras contratuais e disponibilidade. | Alta |
 |RF-017   | O sistema deve permitir que o anfitrião cadastre dados para recebimento das reservas feitas no seu imóvel. | Alta |
 |RF-018   | O sistema deve disponibilizar um meio de contato para que anfitrião e hóspede possam comunicar-se entre si. | Alta |
+|RF-019   | O sistema deve permitir ao usuário compartilhar o imóvel escolhido. | Baixa |
 
 Fonte: Elaborado pelos autores
 
@@ -222,7 +223,7 @@ Fonte: Elaborado pelos autores
 |Excluir conta | O cliente pode excluir sua conta quando assim o desejar. | RF-02 |
 |Fazer login | O cliente deve fazer login para acessar sua conta. | RF-15 |
 |Redefinir senha | O Cliente pode redefinir sua senha se necessário. | RF-13 |
-|Buscar imóveis | O cliente pode buscar, filtrar e favoritar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14 |
+|Buscar imóveis | O cliente pode buscar, filtrar, favoritar e compartilhar os imóveis disponíveis na aplicação, assim como as características e regras contratuais dos mesmos. | RF-06, RF-07, RF-08, RF-10, RF-14 |
 |Reservar imóvel | O cliente pode reservar um imóvel conforme disponibilidade. | RF-05 |
 |Pagar reserva | O cliente pode pagar sua reserva através dos meios de pagamento oferecidos pela aplicação. | RF-12 |
 |Acessar reserva| O cliente pode consultar suas reservas realizadas. | RF-16 |
