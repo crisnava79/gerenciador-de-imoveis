@@ -174,7 +174,7 @@ Quadro 04 - Requisitos Não Funcionais
 |RNF-002 | O sistema deve ter bom nível de contraste entre os elementos da tela em conformidade. | Alta  | 
 |RNF-003 | O sistema deve ser compatível com os principais navegadores do mercado (Google Chrome, Mozilla Firefox, Microsoft Edge). | Alta  | 
 |RNF-004 | O sistema deve ser responsivo em ambientes mobile. | Alta  | 
-|RNF-005 | O desenvolvimento deve ser utilizando nas linguagens de Front-End e Back-End (C# ???). | prioridade  | 
+|RNF-005 | O desenvolvimento deve ser utilizando a linguagem C#. | Alta  | 
 |RNF-006 | O sistema deve permitir a manutenção do cadastro do usuário (anfitrião e hóspede). | Alta  | 
 |RNF-007 | O sistema deve utilizar-se do recurso VLibras (ferramentas gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras. | Média  | 
 |RNF-008 | O sistema deve processar requisições do usuário em no máximo 10s. | Média |
@@ -194,7 +194,7 @@ Quadro 05 - Restrições
 |-----|-------------------------------------------------------|
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 26/06/2022. |
 |RE-02| A equipe não pode subcontratar o desenvolvimento do trabalho. |
-|RE-03| O aplicativo deve se restringir às tecnologias propostas pelo curso. (??) |
+|RE-03| O aplicativo deve se restringir às tecnologias propostas pelo curso. |
 |RE-04| O projeto deve seguir as regras de acessibilidade da W3C. |
 |RE-05| Não é possível acesso ao sistema sem conexão de internet. |
 
