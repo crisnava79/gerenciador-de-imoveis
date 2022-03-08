@@ -151,7 +151,7 @@ Quadro 03 - Requisitos Funcionais
 |RF-009   | O sistema deve fornecer um campo específico para comentários e avaliação, pelos hóspedes (locatários), referentes a relatos de suas experiências de interação e/ou locação. | Média |
 |RF-010   | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um imóvel específico e fácil acesso aos imóveis já viabilizados na plataforma. | Média |
 |RF-011   | O sistema deve permitir visualizar as informações para contato e dúvidas, dos desenvolvedores do site. | Alta |
-|RF-012   | O sistema deve diponibilizar formas de pagamento para o imóvel alugado. | Média |
+|RF-012   | O sistema deve disponibilizar formas de pagamento para o imóvel alugado. | Média |
 |RF-013   | O sistema deve permitir ao usuário solicitar a redefinição de sua senha, informando o e-mail cadastrado. | Alta |      
 |RF-014   | O sistema deve dispor de um calendário para que o hóspede (locatário) verifique se o imóvel estará disponível na data desejada. | Alta |
 |RF-015   | O sistema deve permitir que o cliente faça login em sua conta através do seu e-mail e senha cadastrados. | Alta |
