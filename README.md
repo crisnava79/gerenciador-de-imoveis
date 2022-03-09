@@ -51,7 +51,7 @@ Como objetivos específicos, podemos citar:
 
 ### 1.3 Justificativa
 
-O que impulsionou a elaboração deste projeto foi entender que, em um mundo onde a tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoam consomem, negociam e até tomam decisões, disponibilizar uma ferramenta online para locação de imóveis de curta e média permanência, que seja ágil, segura e de fácil acesso, vai de encontro com as necessidades atuais e pode trazer muitos benefícios tanto para o anfitrião (locador), quanto para o hóspede (locatário) (GO BlogCredpago, 2021).
+O que impulsionou a elaboração deste projeto foi entender que, em um mundo onde a tecnologia e a popularização da internet tem mudado constantemente a forma como as pessoas consomem, negociam e até tomam decisões, disponibilizar uma ferramenta online para locação de imóveis de curta e média permanência, que seja ágil, segura e de fácil acesso, vai de encontro com as necessidades atuais e pode trazer muitos benefícios tanto para o anfitrião (locador), quanto para o hóspede (locatário) (GO BlogCredpago, 2021).
 
 Do lado do anfitrião (locador), esse pode maximizar a divulgação do seu imóvel, podendo encontrar locatários com agilidade, facilidade e menor burocracia, o que também resulta em economia de tempo e dinheiro (Superlógica Tecnologias, 2021). Do lado do hóspede (locatário), esse obtém de forma fácil e ágil uma gama de imóveis para sua escolha, podendo ter uma boa noção do imóvel que pretende locar, sem ter que deslocar-se até o local antes da estadia. Também pode reservar seu imóvel sem muita burocracia e com economia de tempo, já que tem a possibilidade de consultar os detalhes do imóvel, tirar dúvidas, fazer alterações na sua reserva e pagar, tudo através da tela do seu computador ou smartphone.
 
@@ -64,9 +64,9 @@ Diante disso, uma aplicação online que faça a ligação entre anfitrião (loc
 
 ### 1.4 Público-alvo
 
-  As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
+As pessoas trabalham por um longo período durante o ano e como uma forma de descansar e fugir da rotina elas buscam viajar durante as férias ou feriados prolongados. Essas viagens abrangem destinos tanto para o litoral quanto para pontos turísticos, que por sua vez possuem infraestruturas de hospedagem que lhes oferecem acomodações.
  
-  Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
+Daí surge o público alvo que utilizará o sistema de gerenciamento de imóveis para temporada. Esse público compreende as pessoas que buscam uma acomodação para alugar e os anfitriões detentores dos imóveis a serem alugados. Não há distinção de gênero para o usuário, podendo ser de qualquer um, porém no quesito faixa etária para se usar o sistema deverá ter a maioridade. Também serão abrangidas todas as classes sociais, pois observa-se um grande potencial advindo de quaisquer uma dessas classes.
 
 
 ## 2. Especificação do Projeto
@@ -122,10 +122,10 @@ Quadro 02 - História de Usuários
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Carlos José (Corretor de Imóvies)         |Aumentar a visibilidade das casas               |Atrair clientes de outras cidades e aumentar o lucro           |
-|Caio Henrique (Analista de Sistemas)      |escrever funcionalidade                     |escrever motivo                       |
+|Caio Henrique (Analista de Sistemas)      |**escrever funcionalidade**                     |**escrever motivo**                       |
 |Ernesto Aguiar (Empresário)      |Divulgar o seu negócio                    |Se posicionar no mercado e diminuir a concorrência                 |  
 |Clara Castilho (Autônoma)     |Pesquisar informações de proibições e permissões                     |Programar melhor as viagens com seus animais domésticos |
-|Marina Luz (Secretária Executiva)          |escrever funcionalidade                     |escrever motivo                       |
+|Marina Luz (Secretária Executiva)          |**escrever funcionalidade**                     |**escrever motivo**                       |
 |Teo Bernardo (Aposentado)       |Comparar informações acerca da estrutura                |Encontrar a melhor casa no quesito acessibilidade  |
 
 Fonte: Elaborado pelos autores
@@ -185,7 +185,7 @@ Quadro 04 - Requisitos Não Funcionais
 |RNF-008 | O sistema deve processar requisições do usuário em no máximo 10s. | Média |
 |RNF-009 | O sistema deve estar de acordo com LGPD (Lei Geral de Proteção de Dados).| Alta |
 |RNF-010 | O sistema deve possuir acessibilidade para deficientes visuais. | Média  |
-|RNF-011 | O sistema devee estar disponível pelos menos 99% das 24 horas do sia, nos 07 dias da semana. | Alta |
+|RNF-011 | O sistema deve estar disponível pelos menos 99% das 24 horas do dia, nos 07 dias da semana. | Alta |
 
 Fonte: Elaborado pelos autores
 
@@ -209,7 +209,12 @@ Fonte: Elaborado pelos autores
 
 ### 2.4 Diagramas de Casos de Uso
 
-**O diagrama contempla as principais ligações previstas entre casos de uso e atores e permite detalhar os Requisitos Funcionais identificados na etapa de elicitação. Lembrando que  não se utiliza diagramas de caso de uso para requisitos não-funcionais. Como atores é importante a identificação dos grupos de todos os envolvidos que interagem com o sistema, principalmente outros sistemas ou sensores. Eles são representados graficamente por bonecos-palito e serão nomeados pelos papéis nas interações nas quais estão envolvidos (ex. Cliente, Administrador). Lembre-se de que o próprio sistema não pode ser ator do diagrama que o modela. Em relação aos casos de uso, eles devem representar as interações ou transações dos atores com o sistema. Cada tipo possível é representada por uma elipse nomeada e os relacionamentos são indicados por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso representam verbos no infinitivo associados aos objetos com os quais se relacionam os verbos (ex. Cadastrar usuário, Visualizar relatório). Os tipos de relacionamentos mais comuns são associações entre atores e casos de uso, generalizações entre atores e entre casos de uso, inclusões e extensões entre casos de uso.**
+O diagrama de caso de uso, comumente oriundo da especificação dos requisitos funcionais do sistema, descreve as principais funcionalidades do sistema que será projetado pelo grupo e sua interação com os possíveis usuários (DevMedia, 2022). Segundo Ivar Jacobson, podemos dizer que um caso de uso é um "documento narrativo que descreve a sequência de eventos de um ator que usa um sistema para completar um processo" (Wikipédia, 2020).
+
+Graficamente é representado com elementos como os atores, os casos de uso e seus relacionamentos entre si. Seu objetivo principal é ilustrar de forma abstrata, a interação dos elementos externos com as funcionalidades do sistema, ou seja, “a finalidade de um diagrama de caso de uso é apresentar um tipo de diagrama de contexto que apresenta os elementos externos de um sistema e as maneiras segundo as quais eles as utilizam” (Wikipédia, 2020).
+
+Desta feita, o grupo representa abaixo o diagrama de caso de uso para o sistema que será projetado.
+
 
 |ATOR| DESCRIÇÃO                                            |
 |--|-------------------------------------------------------|
@@ -273,6 +278,8 @@ CAMPOS, Mari.**Turismo de isolamento faz surgir uma nova geração de "construto
 
 CASTRO, Luíza M. S.; LESO, Bernardo Henrique; CORTIMIGLIA, Marcelo N. **Transformação digital no mercado de locação de imóveis**. Ciudad del Saber: X Congreso Internacional de Conocimiento y Innovación, 2020. Disponível em: https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/934/496/2923. Acessado em 22/02/2022.
 
+DevMedia. **O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML**. Disponível em: https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408. Acessado em 09/03/2022.
+
 Go BlogCredpago. **Entenda como a tecnologia facilita o aluguel de imóveis**. Abril de 2021. Disponível em: https://blog.credpago.com.br/como-a-tecnologia-facilita-o-aluguel-de-imoveis/. Acessado em 20/02/2022.
 
 Superlógica Tecnologias. **Tecnologia Imobiliária: tempo é dinheiro na locação de imóveis**. Setembro de 2021. Disponível em: https://blog.superlogica.com/recorrencia/tecnologia-imobiliaria/. Acessado em 20/02/2022.
@@ -280,6 +287,8 @@ Superlógica Tecnologias. **Tecnologia Imobiliária: tempo é dinheiro na locaç
 TemporadaLivre. **5 vantagens para quem quer alugar um imóvel de temporada**. Maio de 2019. Disponível em: https://www.temporadalivre.com/blog/5-vantagens-para-quem-quer-alugar-um-imovel-de-temporada. Acessado em 20/02/2022.
 
 VILLAR, Marcela. **Preço do aluguel de casas por temporada no Litoral Norte aumenta até 70% neste verão**. Janeiro de 2021. Disponível em: https://www.correio24horas.com.br/noticia/nid/preco-do-aluguel-de-casas-por-temporada-no-litoral-norte-aumenta-ate-70-neste-verao/. Acessado em 19/02/2022.
+
+Wikepédia. **Diagrama de caso de uso**. Junho de 2020. Disponível em: https://pt.wikipedia.org/wiki/Diagrama_de_caso_de_uso. Acessado em 09/03/2022.
 
 
 
