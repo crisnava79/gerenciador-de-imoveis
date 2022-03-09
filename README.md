@@ -1,9 +1,7 @@
 
 # Gerenciador de Imóveis
-# Carpe Diem - Sua melhor estadia você encontra aqui
 
-![Logo Projeto Eixo 2_teste3](https://user-images.githubusercontent.com/89549220/157351638-f01ec1b1-8ca8-4b73-92a6-da6b02476257.png)
-
+![Sem título2](https://user-images.githubusercontent.com/89549220/157356465-bf38ce38-f3b8-4e48-a5ca-2e20803ac623.png)
 
 Projeto realizado pelos alunos do Curso de ADS PUC-MG (Turma 5.5)
 
