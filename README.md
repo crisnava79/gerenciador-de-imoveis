@@ -102,10 +102,11 @@ Quadro 01 - Personas
 |![Marina](https://user-images.githubusercontent.com/91228798/156465093-eae46d42-ca19-40ed-afac-42115d8ad186.png) |**Idade:** 40 anos - **Ocupação:** Secretária Executiva em uma multinacional|**Aplicativos:** Linkedin, Instagram.|
 |**Motivações:**  Realizar eventos para ajudar comunidades carentes. Prestar serviços para ONG de Animais em situação de rua. |**Frustrações:** Constatar um grande número de animais abandonados. Falta de respeito com os animais|**Hobbies, História:** Viajar com sua família e com seus animais de  estimação. Praticar ciclismo.|
 
-| NOME PERSONA | | |                    
+
+|  Theo Bernardo| | |                     
 |--------------------|------------------------------------|----------------------------------------|
-|FOTO |**Idade:** XX anos - **Ocupação:** XXXXX |**Aplicativos:** XXXXXXXXX.|
-|**Motivações:**  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX. |**Frustrações:** XXXXXXXXXXXXXXXXXXXXXXXXXXXX |**Hobbies, História:** XXXXXXXXXXXXXXXXXXX.|
+|![Theo Bernardo](https://user-images.githubusercontent.com/91228798/157347426-ca6c5897-c4ec-43cc-9b56-d8d7101097fa.jpg) |**Idade:** 26 anos - **Ocupação:** Aposentado|**Aplicativos:** WhatsApp|
+|**Motivações:** Gosta de realizar as sessões de fisioterapia na praia, pois se sente motivad.|**Frustrações:** Dificuldade em se deslocar de um lugar para o outro. Julgamento da sociedade em relação às pessoas com deficiência.|**Hobbies, História:** Amava andar de moto e sofreu acidente de trânsito no qual perdeu um braço e uma perna (ambos do lado esquerdo).|
 
 Fonte: Elaborado pelos autores
 
