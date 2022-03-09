@@ -121,12 +121,12 @@ Quadro 02 - História de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|nome         |escrever funcionalidade                     |escrever motivo                       |
-|nome         |escrever funcionalidade                     |escrever motivo                       |
-|nome         |escrever funcionalidade                     |escrever motivo                       |
-|nome         |escrever funcionalidade                     |escrever motivo                       |
-|nome         |escrever funcionalidade                     |escrever motivo                       |
-|nome         |escrever funcionalidade                     |escrever motivo                       |
+|Carlos José (Corretor de Imóvies)         |Aumentar a visibilidade das casas               |Atrair clientes de outras cidades e aumentar o lucro           |
+|Caio Henrique (Analista de Sistemas)      |escrever funcionalidade                     |escrever motivo                       |
+|Ernesto Aguiar (Empresário)      |Divulgar o seu negócio                    |Se posicionar no mercado e diminuir a concorrência                 |  
+|Clara Castilho (Autônoma)     |Pesquisar informações de proibições e permissões                     |Programar melhor as viagens com seus animais domésticos |
+|Marina Luz (Secretária Executiva)          |escrever funcionalidade                     |escrever motivo                       |
+|Teo Bernardo (Aposentado)       |Comparar informações acerca da estrutura                |Encontrar a melhor casa no quesito acessibilidade  |
 
 Fonte: Elaborado pelos autores
 
