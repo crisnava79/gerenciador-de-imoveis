@@ -55,7 +55,9 @@ O que impulsionou a elaboração deste projeto foi entender que, em um mundo ond
 
 Do lado do anfitrião (locador), esse pode maximizar a divulgação do seu imóvel, podendo encontrar locatários com agilidade, facilidade e menor burocracia, o que também resulta em economia de tempo e dinheiro (Superlógica Tecnologias, 2021). Do lado do hóspede (locatário), esse obtém de forma fácil e ágil uma gama de imóveis para sua escolha, podendo ter uma boa noção do imóvel que pretende locar, sem ter que deslocar-se até o local antes da estadia. Também pode reservar seu imóvel sem muita burocracia e com economia de tempo, já que tem a possibilidade de consultar os detalhes do imóvel, tirar dúvidas, fazer alterações na sua reserva e pagar, tudo através da tela do seu computador ou smartphone.
 
-Além disso, segundo estudo realizado pela Brain Inteligência Estratégica (2020), com a pandemia causada pela SARS Covid-19, o setor imobiliário foi um dos mais impactados e isso ocorreu 93% na forma presencial, diferentemente das modalidades digitais que foram bem menos afetadas (apud Castro; Leso; Cortimiglia, 2020). 
+Além disso, desde 2020, com o surgimento da pandemia causada pela SARS Covid-19, iniciou-se um crescimento sem precedentes nas reservas em sites e plataformas de aluguéis de temporada, popularizando o chamado "turismo de isolamento". Algumas plataformas chegaram a divulgar aumento de até 150% na busca por imóveis isolados de temporada (Campos, 2022). 
+
+Também como consequência da mesma pandemia, segundo estudo realizado pela Brain Inteligência Estratégica (2020), o setor imobiliário foi um dos mais impactados e isso ocorreu 93% na forma presencial, diferentemente das modalidades digitais que foram bem menos afetadas (apud Castro; Leso; Cortimiglia, 2020). 
 
 Diante disso, uma aplicação online que faça a ligação entre anfitrião (locador) e hóspede (locatário) torna-se de grande utilidade numa era onde características como agilidade, facilidade e segurança são tão valorizadas.
 
@@ -266,6 +268,8 @@ Fonte: Elaborado pelos autores
 ## Referências Bibliográficas
 
 BIGViagem. **Aluguel por temporada – Vantagens e Desvantagens**. Agosto de 2016. Disponível em: https://bigviagem.com/aluguel-por-temporada-vantagens-e-desvantagens/. Acessado em 19/02/2022.
+
+CAMPOS, Mari.**Turismo de isolamento faz surgir uma nova geração de "construtores"**. NEOFEED, 2022. Disponível em: https://neofeed.com.br/blog/home/turismo-de-isolamento-faz-surgir-uma-nova-geracao-de-construtores. Acessado em 05/03/2022.
 
 CASTRO, Luíza M. S.; LESO, Bernardo Henrique; CORTIMIGLIA, Marcelo N. **Transformação digital no mercado de locação de imóveis**. Ciudad del Saber: X Congreso Internacional de Conocimiento y Innovación, 2020. Disponível em: https://proceeding.ciki.ufsc.br/index.php/ciki/article/download/934/496/2923. Acessado em 22/02/2022.
 
