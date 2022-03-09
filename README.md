@@ -2,6 +2,9 @@
 # Gerenciador de Imóveis
 # Carpe Diem - Sua melhor estadia você encontra aqui
 
+![Logo Projeto Eixo 2_teste3](https://user-images.githubusercontent.com/89549220/157351638-f01ec1b1-8ca8-4b73-92a6-da6b02476257.png)
+
+
 Projeto realizado pelos alunos do Curso de ADS PUC-MG (Turma 5.5)
 
 Integrantes:
@@ -30,7 +33,7 @@ Diante desse contexto, surge a necessidade de uma plataforma focada no serviço 
 
 Com a presença da internet se tornando essencial no dia a dia de todos, seja no auxílio aos estudos, no entretenimento em geral, bem como no oferecimento de serviços de estadia em hotéis, pousadas e/ou casas, nem todos os serviços disponíveis estão capacitados ou preocupados em aproximar/interagir com o público interessado em locação de imóveis no litoral brasileiro, de forma digital.
 
-Buscando dirimir essa lacuna, o grupo procura melhorar a interatividade entre o anfitrião (locador) e o hóspede (locatário), promovendo o acesso a uma plataforma de serviço online de locação de imovéis por temporada, nas regiões litorâneas do Brasil.
+Buscando dirimir essa lacuna, o grupo procura melhorar a interatividade entre o anfitrião (locador) e o hóspede (locatário), promovendo o acesso a uma plataforma de serviço online de locação de imóveis por temporada, nas regiões litorâneas do Brasil.
 
 
 ### 1.2 Objetivos
@@ -97,15 +100,15 @@ Quadro 01 - Personas
 |![Clara Castilho](https://user-images.githubusercontent.com/91228798/156458375-3f731c6d-6ba3-4af7-ae83-d73682390cd2.png) |**Idade:** 30 anos - **Ocupação:** Autônoma. Trabalha como manicure e faz faculdade na área de estética. |**Aplicativos:** WhatsApp, Instagram.|
 |**Motivações:**  Gosta muito de viajar para fugir da rotina e esquecer um pouco das obrigações do trabalho. |**Frustrações:** Não gosta de frequentar hotéis, pois não pode levar seus animais de estimação.|**Hobbies, História:** Trabalha como manicure desde os 13 anos. Possui o seu próprio estabelecimento e deseja crescer profissionalmente para ter condições de viajar pelo mundo.|
 
-| Marina Aguiar| | |                    
+| Marina Aguiar |         |         |                    
 |--------------------|------------------------------------|----------------------------------------|
 |![Marina](https://user-images.githubusercontent.com/91228798/156465093-eae46d42-ca19-40ed-afac-42115d8ad186.png) |**Idade:** 40 anos - **Ocupação:** Secretária Executiva em uma multinacional|**Aplicativos:** Linkedin, Instagram.|
 |**Motivações:**  Conhecer novos lugares e pessoas.|**Frustrações:** Quando sua viajem de férias não sai perfeita.|**Hobbies, História:** Viajar com sua família e com seus animais domésticos. Praticar ciclismo.|
 
-|  Theo Bernardo| | |                     
+| Theo Bernardo |       |         |                     
 |--------------------|------------------------------------|----------------------------------------|
 |![Theo Bernardo](https://user-images.githubusercontent.com/91228798/157347426-ca6c5897-c4ec-43cc-9b56-d8d7101097fa.jpg) |**Idade:** 26 anos - **Ocupação:** Aposentado|**Aplicativos:** WhatsApp|
-|**Motivações:** Gosta de realizar as sessões de fisioterapia na praia, pois se sente motivad.|**Frustrações:** Dificuldade em se deslocar de um lugar para o outro. Julgamento da sociedade em relação às pessoas com deficiência.|**Hobbies, História:** Amava andar de moto e sofreu acidente de trânsito no qual perdeu um braço e uma perna (ambos do lado esquerdo).|
+|**Motivações:** Gosta de realizar as sessões de fisioterapia na praia, pois se sente motivado.|**Frustrações:** Dificuldade em se deslocar de um lugar para o outro. Julgamento da sociedade em relação às pessoas com deficiência.|**Hobbies, História:** Amava andar de moto e sofreu acidente de trânsito no qual perdeu um braço e uma perna (ambos do lado esquerdo).|
 
 Fonte: Elaborado pelos autores
 
@@ -178,10 +181,11 @@ Quadro 04 - Requisitos Não Funcionais
 |RNF-004 | O sistema deve ser responsivo em ambientes mobile. | Alta  | 
 |RNF-005 | O desenvolvimento deve ser utilizando a linguagem C#. | Alta  | 
 |RNF-006 | O sistema deve permitir a manutenção do cadastro do usuário (anfitrião e hóspede). | Alta  | 
-|RNF-007 | O sistema deve utilizar-se do recurso VLibras (ferramentas gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras. | Média  | 
+|RNF-007 | O sistema deve utilizar-se do recurso VLibras (ferramenta gratuita e de código aberto que traduz conteúdos digitais (texto, áudio e vídeo) em Português para Libras). | Média  | 
 |RNF-008 | O sistema deve processar requisições do usuário em no máximo 10s. | Média |
 |RNF-009 | O sistema deve estar de acordo com LGPD (Lei Geral de Proteção de Dados).| Alta |
 |RNF-010 | O sistema deve possuir acessibilidade para deficientes visuais. | Média  |
+|RNF-011 | O sistema devee estar disponível pelos menos 99% das 24 horas do sia, nos 07 dias da semana. | Alta |
 
 Fonte: Elaborado pelos autores
 
